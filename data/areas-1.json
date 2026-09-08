@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "bolton",
+    "name": "Bolton",
+    "county": "Greater Manchester",
+    "postcodes": ["BL1", "BL2", "BL3"],
+    "roundDay": "Mondays and Tuesdays",
+    "travel": "This is base, so we're never far off.",
+    "intro": "Bolton's home. Lewis was born here, grew up here, and twenty years on he's still cleaning the same streets, only now it's done from the ground with a pole and purified water rather than a bucket and a ladder. Most of our working week sits inside BL1, BL2 and BL3, so if something needs sorting we're rarely more than ten minutes away.",
+    "housing": "You get everything here. Tight terraced rows through Halliwell, Daubhill and Great Lever where the front windows sit straight onto the pavement and there's no room for a ladder anyway. Big Victorian and Edwardian semis along Chorley New Road and out towards Heaton and Lostock, often three storeys, with sash windows and stone mullions well above gutter height. Thirties bays in Astley Bridge, postwar estates at Breightmet and Johnson Fold, and a growing number of apartment conversions in old mill buildings near the centre. A pole handles the lot without anyone standing on anything.",
+    "local": "The town centre still has Le Mans Crescent and the Town Hall looking down Victoria Square, and most of our Bolton work fans out from there. Crompton Way loops round the north side, St Peter's Way carries the A666 through, and Chorley Old Road climbs steadily until the houses give out and the moor starts. Queens Park and Moss Bank Park break up the built-up part, Smithills Hall sits above Halliwell, and on a clear day you can see the Winter Hill mast from half the streets on our round.",
+    "challenge": "Weather comes in from the west and doesn't stop for much. Rain off the Irish Sea hits the moor edge and drops on Bolton on the way through, bringing fine grit down off the tops with it. Add traffic film from St Peter's Way, Crompton Way and Manchester Road, plus the sooty residue that still sits in old sandstone sills, and glass loses its edge quickly. Mains water round here is fairly soft, but it will still leave spotting when it dries on a window. Ours won't, because the minerals are stripped out first.",
+    "neighbourhoods": ["Halliwell", "Astley Bridge", "Heaton", "Lostock", "Deane", "Daubhill", "Great Lever", "Breightmet", "Tonge Moor", "Harwood"],
+    "landmarks": ["Bolton Town Hall and Victoria Square", "Le Mans Crescent", "Queens Park", "Smithills Hall", "Moss Bank Park"],
+    "faqs": [
+      {
+        "q": "Can you reach the top windows on the tall three-storey houses off Chorley New Road?",
+        "a": "Yes. The water-fed pole reaches comfortably to a third floor and beyond from the pavement, so there's no ladder leaning on your stonework and nobody walking through the house. Those older properties tend to have deep stone mullions that hold dirt, and they get brushed properly rather than just wiped over."
+      },
+      {
+        "q": "Do you clean the mill conversions and apartment blocks near the town centre?",
+        "a": "We do the accessible glass on low and mid-rise blocks, working entirely from ground level. What we can't do is anything needing rope access or a cherry picker. Ring us with the address and we'll tell you straight away whether it's a job for us or one for a specialist outfit."
+      },
+      {
+        "q": "There's nowhere to park on our terraced street in Halliwell. Is that a problem?",
+        "a": "Not really. The van carries its own water and the hose reel runs a long way, so we can pull up round the corner and still work the whole row. That's how most of the terraced streets in Bolton get done. All we need is a way through to the back, not a space outside your door."
+      }
+    ],
+    "nearby": ["horwich", "westhoughton", "farnworth", "little-lever", "bromley-cross"]
+  },
+  {
+    "slug": "horwich",
+    "name": "Horwich",
+    "county": "Greater Manchester",
+    "postcodes": ["BL6"],
+    "roundDay": "Wednesdays, plus Thursday mornings",
+    "travel": "Fifteen minutes out along Chorley New Road.",
+    "intro": "Up under the moor, glass takes a beating. Horwich gets the weather first, and anything blowing off Winter Hill or Rivington ends up on the windows in the streets below. We run a regular round through BL6 with purified water and a pole, which keeps the frames and sills clean as well as the glass. No ladders against your gutters, and no need for you to be in.",
+    "housing": "Much of the older housing here went up in a hurry after the Loco Works opened in the 1880s. Long stone-fronted terraces off Lee Lane and Winter Hey Lane, most with a small yard behind and no side access to speak of. Above them you get bigger Victorian villas along Chorley New Road, then postwar semis, then the Rivington Chase development on the old works site with its render, roof windows and full-height glazing. Different eras, different problems, but all of it cleans better from the ground than off a ladder pitched on a slope.",
+    "local": "Lee Lane is still the spine of the place, running down towards Chorley New Road with the Pike sat behind it. Lever Park and the Rivington reservoirs are ten minutes up the hill, Winter Hill and its mast dominate everything to the north, and on the other side of town Middlebrook has the retail park, the station and the Wanderers' ground. The M61 cuts Horwich off from Blackrod. Wallsuches, Old Lords and Bottom o' th' Moor sit on the higher ground, and those are the addresses that feel the weather most.",
+    "challenge": "Exposure, mostly. Wind pushes rain sideways here rather than dropping it straight down, so dirt gets driven into the top corners of frames and under the beading. The moor sends peat dust and grit down whenever it dries out. In winter the gritters work Chorley New Road and the M61 slip roads hard, and salt spray carries further than people expect. Trees through Lever Park add sap and bird mess in summer. Higher up the hill, four to six weeks between cleans makes far more sense than eight.",
+    "neighbourhoods": ["Wallsuches", "Middlebrook", "Bottom o' th' Moor", "Brazley", "Horwich Moor", "Rivington Chase", "Old Lords", "Lostock", "Grimeford"],
+    "landmarks": ["Rivington Pike", "Lever Park", "the former Horwich Loco Works site", "Middlebrook", "Winter Hill transmitter"],
+    "faqs": [
+      {
+        "q": "We're up near Georges Lane and it's exposed. How often do you recommend?",
+        "a": "Four weekly for anything above the town, six weekly lower down. The wind up there drives grit at the glass constantly, and an eight week gap means you spend half of it looking through a film. We'd rather come more often and work less hard than let it build into something that needs scrubbing off."
+      },
+      {
+        "q": "The new houses at Rivington Chase have roof windows and glass up to the eaves. Can you get them?",
+        "a": "Yes, poles reach roof-level glazing from the driveway. New builds also tend to arrive with plaster splash, silicone smears and mortar dust on the panes, so the first clean is a slower one to get all that off properly before we settle into a routine."
+      },
+      {
+        "q": "Doesn't the rain just undo the job up here?",
+        "a": "No. Rainwater on its own is clean; it's the dirt already sitting on the glass that makes it streak. Once purified water has taken that off and the frames are clean too, a shower runs straight down and dries clear. Half our Horwich round gets cleaned in drizzle and it makes no difference to how it looks after."
+      }
+    ],
+    "nearby": ["bolton", "blackrod", "westhoughton", "chorley", "adlington"]
+  },
+  {
+    "slug": "westhoughton",
+    "name": "Westhoughton",
+    "county": "Greater Manchester",
+    "postcodes": ["BL5"],
+    "roundDay": "Thursdays",
+    "travel": "Twenty minutes from base, usually on Wigan Road by half eight.",
+    "intro": "Westhoughton isn't really one town, it's a handful of old villages that grew into each other, and the housing changes character every few hundred yards. We cover the whole of BL5 on a regular round: Wingates, Daisy Hill, Chew Moor, Hart Common, Over Hulton and everything between them. Same purified water system either way, whether it's a stone terrace or a five-year-old detached with bi-folds across the back.",
+    "housing": "The old village cores each kept their own terraces, so Wingates, Daisy Hill and Chew Moor still look nothing like each other. Around those sit large estates from the seventies onward, mostly semis and detached with uPVC frames and a conservatory or garden room on the back. Then there's the newer building off Wigan Road and towards Chequerbent, where the glazing gets ambitious: floor to ceiling panels, sunrooms, glass balustrades. Conservatory roofs are the thing people forget about, and they're also the thing that shows dirt worst from an upstairs window.",
+    "local": "Market Street and Central Drive make up the middle of it, with the Town Hall and the Carnegie library facing onto them. Daisy Hill has its own station on the Manchester line and its own feel entirely. The M61 runs along the eastern edge with junction 5 at Chequerbent, while the A58 Wigan Road and the A6 take most of the through traffic. West of town it opens straight out into farmland towards Hart Common. The Snydale water tower, converted to flats years back, is the thing everyone navigates by.",
+    "challenge": "Two things dirty windows here more than anything else. First is the motorway and the main roads, which throw a constant fine film of brake dust and diesel soot onto anything within a few hundred yards. Second is open ground. With farmland to the west and building sites dotted about, dry spells lift soil and dust and put it straight onto the glass. Newer estates get a double dose while the rest of the site is still under construction.",
+    "neighbourhoods": ["Wingates", "Daisy Hill", "Chew Moor", "Hart Common", "Over Hulton", "Four Gates", "Hunger Hill", "Snydale", "Dobb Brow", "White Horse"],
+    "landmarks": ["Westhoughton Town Hall", "St Bartholomew's Church", "the Carnegie library", "Snydale water tower", "the Pretoria Pit memorial"],
+    "faqs": [
+      {
+        "q": "We've just moved into a new build off Wigan Road and the windows still have marks on them. Can you get those off?",
+        "a": "Usually, yes. Builders leave silicone, plaster splash and mortar splatter, and none of it comes off with a normal clean. That first visit takes longer and involves careful scraping on the worst panes. Worth flagging any scratched glass to the developer while your warranty still runs, since that's their problem rather than ours."
+      },
+      {
+        "q": "Do you clean conservatory roofs as well as the sides?",
+        "a": "Yes, glass and polycarbonate both, plus the frames and finials. Roofs collect leaf mould and green algae far faster than upright glass because water sits on them and evaporates. Plenty of people round here have the roof done two or three times a year and the sides on the normal round."
+      },
+      {
+        "q": "Our house backs onto the M61 at Chequerbent. Is a four weekly clean overkill?",
+        "a": "Not at that address. Road film builds faster than most people realise and it goes greasy rather than dusty, so it smears if you leave it too long. Four weekly keeps it honest. Houses a mile back from the motorway are generally fine on six or eight."
+      }
+    ],
+    "nearby": ["bolton", "horwich", "atherton", "wigan", "leigh"]
+  },
+  {
+    "slug": "farnworth",
+    "name": "Farnworth",
+    "county": "Greater Manchester",
+    "postcodes": ["BL4"],
+    "roundDay": "Fridays",
+    "travel": "Ten minutes down the A666.",
+    "intro": "Farnworth's on the Friday round and it's one of the closest patches to base. Terraced streets, big interwar semis, and a fair bit of newer building on cleared mill land, all of it inside BL4. Purified water, brush on a pole, done from the pavement. Nothing needs holding up and nobody has to be home for us to get on with it.",
+    "housing": "Two eras dominate. There are the tight terraced grids off Market Street, Albert Road and Plodder Lane, built for the mills and the pits, where the front step is the pavement and the back is a shared entry. Then there are the wider interwar and postwar estates at New Bury, Harper Green and Dixon Green, bay windows at the front and a bit of garden. More recently, cleared industrial land has filled up with small modern developments. Terraced fronts are quick work; it's the rear access on those streets that decides how the round gets planned.",
+    "local": "Farnworth Park was one of the earliest free public parks in the country and it's still the middle of the town as far as most people are concerned. Down the hill, Moses Gate Country Park follows the Croal and the Irwell along the valley bottom, with the lodges and woodland that come with it. The A666 bypass slices past on its way to Kearsley, Market Street holds the shops, and Royal Bolton Hospital sits over towards the Great Lever boundary. Moses Gate station puts the town a short hop from Manchester.",
+    "challenge": "The valley is the main thing. Sitting low next to two rivers means damp air lingers, and damp air means green algae on north-facing sills, frames and the bottom edge of the glass. It comes back faster here than on higher ground. On top of that the A666 runs through as a dual carriageway and puts road film on everything near it. Older terraces with sandstone sills hold muck in the stone, so those want the brush working properly rather than a rinse.",
+    "neighbourhoods": ["New Bury", "Harper Green", "Dixon Green", "Moses Gate", "Highfield", "Plodder Lane", "Doe Hey", "Great Lever"],
+    "landmarks": ["Farnworth Park", "Moses Gate Country Park", "Farnworth Carnegie Library", "Farnworth Town Hall", "Royal Bolton Hospital"],
+    "faqs": [
+      {
+        "q": "Our terraced street has no back gate. How do you clean the rear windows?",
+        "a": "Most of those streets have a shared entry or a ginnel, and that's all we need. The pole and hose feed through easily enough. Where there's genuinely no way round, we'll ask you to leave a side gate on the latch on your clean day, or we do the fronts on one visit and the rears when someone's about."
+      },
+      {
+        "q": "Why do our window frames go green so quickly?",
+        "a": "You're in a river valley, so the air stays damp and algae takes hold on anything that doesn't get much direct sun. Plain water won't shift it once established. We brush the frames and sills as well as the glass on every visit, which stops it building up thick. North-facing elevations always need the most attention round here."
+      },
+      {
+        "q": "Do you cover the streets around Royal Bolton Hospital?",
+        "a": "Yes, that whole stretch up to the Great Lever boundary. Those roads carry a lot of traffic and the windows show it, so houses along there tend to go on a four weekly cycle rather than six. Parking gets awkward at shift change, but the hose reaches from wherever we can stop."
+      }
+    ],
+    "nearby": ["bolton", "kearsley", "little-lever", "walkden", "westhoughton"]
+  },
+  {
+    "slug": "little-lever",
+    "name": "Little Lever",
+    "county": "Greater Manchester",
+    "postcodes": ["BL3"],
+    "roundDay": "Tuesdays",
+    "travel": "Two miles east of Bolton, so we're there in ten.",
+    "intro": "Sat between Bolton and Radcliffe with the Croal valley dropping away below it, Little Lever has a bit of everything: old village terraces, big estates from the sixties and seventies, and newer houses on ground that used to be a colliery. We work this part of BL3 on Tuesdays. Everything gets cleaned with purified water off a pole, so frames and sills are done at the same time as the glass.",
+    "housing": "The village core along Market Street and Church Street is still mostly stone and brick terraces, some of them a fair age. Spreading out from that, Little Lever grew hard through the postwar decades, and the result is street after street of semis and bungalows off Mytham Road, Stopes Road and out towards Radcliffe Road. The old Ladyshore colliery ground has newer housing on it now. Bungalows are straightforward to keep on top of; the older terraces need more care, because sandstone sills soak dirt up and hold onto it.",
+    "local": "Walk south from the village and the ground falls away into the Croal valley. Down there is Nob End, where the Manchester, Bolton and Bury Canal split three ways and dropped through a flight of locks, most of it now a nature site sat on old chemical spoil. Moses Gate Country Park carries on from there. St Matthew's Church has stood at the top since the 1790s. Darcy Lever is on the Bolton side, Bradley Fold and Prestolee on the other, and the A6053 threads between the lot.",
+    "challenge": "Height helps and the valley hurts. Houses on the higher streets dry out and stay reasonably clean. Anything close to the canal or the country park picks up damp, leaf mould and green film on the shaded side. Mature trees along the valley add sap and bird mess through summer. There's still light industry down at the bottom throwing dust when the wind's in the wrong direction, and Radcliffe Road carries enough traffic to leave a film on the front of everything along it.",
+    "neighbourhoods": ["Ladyshore", "Nob End", "Mytham", "Stopes", "Darcy Lever", "Bradley Fold", "Prestolee"],
+    "landmarks": ["St Matthew's Church", "Nob End Locks on the Manchester, Bolton and Bury Canal", "Nob End nature reserve", "Moses Gate Country Park"],
+    "faqs": [
+      {
+        "q": "Our windows face the canal side and go green every winter. Can that be stopped?",
+        "a": "Not stopped, but it can be kept on top of. Shaded, damp elevations near the valley will always grow algae. What matters is frequency, and brushing the frames, rubbers and sills properly each visit rather than only doing the glass. Kept to six weekly it never reaches the point where you notice it from inside."
+      },
+      {
+        "q": "We've got a conservatory and a porch as well as the windows. Is that all one job?",
+        "a": "It is. Conservatory sides and porch glass get done on the normal visit. The conservatory roof is a separate thing we'd usually suggest doing a couple of times a year, because roofs collect leaf litter and moss much faster than upright glass, especially with the tree cover down the valley."
+      },
+      {
+        "q": "Can you get down the entries on the older terraces off Market Street?",
+        "a": "Yes. The hose runs off a reel in the van and there's plenty of it, so a narrow entry or a shared ginnel is no obstacle at all. The pole folds down to get through gates. The only thing that stops us is a locked gate with nobody in, so leave yours on the latch on your clean day."
+      }
+    ],
+    "nearby": ["bolton", "farnworth", "kearsley", "radcliffe", "bury"]
+  },
+  {
+    "slug": "kearsley",
+    "name": "Kearsley",
+    "county": "Greater Manchester",
+    "postcodes": ["BL4", "M26"],
+    "roundDay": "Fridays, second half of the day",
+    "travel": "Straight down the A666, or off the M61 at the Kearsley Spur.",
+    "intro": "Kearsley, Stoneclough, Prestolee and Ringley all get done on the same run, which is handy, because the postcodes round here don't agree with each other. Some of it is BL4, some of it M26. Makes no odds to us. Pure water, pole from the ground, glass, frames and sills every visit, on a set cycle so you're not chasing anybody for a date.",
+    "housing": "Manchester Road and Bolton Road carry most of the older terraces, built for the mills, the paper works and the pits. Behind them the semis take over, plenty of them from the thirties and fifties, with bay windows that catch road spray off the front. Down in the valley at Stoneclough and Prestolee the houses are older and closer to the water, some of them stone cottages on steep, awkward plots. Cleared industrial sites around the town have picked up modern flats and small estates, and those carry far more glass per house than anything older.",
+    "local": "The Irwell does the shaping here. Ringley sits down by the river with its old bridge and the detached church tower, and the ground climbs from there up to Kearsley Mount and the Manchester Road shops. St Stephen's stands on Manchester Road, with the graves of the men lost in the 1878 pit disaster in its churchyard. The A666 runs the length of the town before the Kearsley Spur takes you onto the M61, and the old power station land down by the river has been given over to other use.",
+    "challenge": "There's no getting away from the A666. It runs right through, and dual carriageway traffic leaves a greasy film that behaves differently from ordinary dust: it smears rather than brushes off, so it wants proper water and a brush, not a wipe. Down at Stoneclough and Ringley the river brings mist and damp, which greens up shaded frames. The wooded stretch along the Irwell drops sap and blossom on anything sat underneath it, windows included.",
+    "neighbourhoods": ["Stoneclough", "Prestolee", "Ringley", "Kearsley Moor", "Kearsley Mount", "Outwood", "Clifton"],
+    "landmarks": ["St Stephen's Church, Manchester Road", "Ringley Old Bridge", "the detached tower at Ringley", "Prestolee aqueduct", "Moses Gate Country Park"],
+    "faqs": [
+      {
+        "q": "Is Stoneclough covered, or does the M26 postcode put it in Radcliffe?",
+        "a": "It's covered. We work by geography rather than by postcode, and Stoneclough, Prestolee and Ringley all sit on the same run as Kearsley itself. The postcode boundaries round the Irwell have never matched how people actually think about the place, so we don't let them decide the round either."
+      },
+      {
+        "q": "The front of our house is on Manchester Road and it's filthy within a fortnight. What can be done?",
+        "a": "Realistically, a shorter cycle on the front. Some customers along there have everything done on six weeks and just the front elevation on three or four. It's road film rather than plain dirt, and once it goes greasy it needs washing off properly. The rear windows on those houses usually stay fine on the standard cycle."
+      },
+      {
+        "q": "Our cottage is down a steep drive by the river. Can you still get to it?",
+        "a": "Almost certainly. The van doesn't need to be close, the hose does the travelling, and the pole works fine on uneven or sloping ground because we're standing back from the wall rather than leaning on it. That's exactly the sort of property where the ladder was always the risky part of the job."
+      }
+    ],
+    "nearby": ["farnworth", "little-lever", "radcliffe", "walkden", "swinton"]
+  },
+  {
+    "slug": "blackrod",
+    "name": "Blackrod",
+    "county": "Greater Manchester",
+    "postcodes": ["BL6"],
+    "roundDay": "Wednesday afternoons, on the back of the Horwich round",
+    "travel": "Over the motorway from Horwich, ten minutes further on.",
+    "intro": "Blackrod sits high, and you feel it on a windy day. The village runs along a ridge with the Douglas valley falling away one side and the motorway separating it from Horwich on the other. We cover this corner of BL6 on the same day as Horwich, using purified water so there's nothing left behind on the glass when it dries.",
+    "housing": "There's a real split between old and new. Round the top of the village near the church you get stone cottages and short terraces, some with deep reveals and small panes that take longer to do properly. Below and to the west, estates from the eighties and nineties spread down towards Scot Lane End and the station, mostly brick semis and detached with standard uPVC units. A few of the newer detached properties on the western slopes were built to make the most of the view, which in practice means large panes facing straight into the prevailing wind.",
+    "local": "St Katharine's has been on the hilltop a very long time and the old part of the village grew around it. Chorley Road runs the length of the place as the A6, though through traffic mostly uses the bypass now. Blackrod station sits on the Manchester to Preston line at the bottom end. Red Moss, a big lowland peat bog, lies between here and Horwich, and beyond the rooftops you're looking over the Douglas valley towards Haigh one way, with Rivington and Winter Hill filling in the other.",
+    "challenge": "Wind is the difference between Blackrod and the towns below it. Rain rarely falls straight, so it drives dirt into frame corners and along the top edge of the glass where a quick wipe never reaches. Dry weather off Red Moss lifts fine peat dust. Winter brings salt off the A6 and the M61, and salt is worse than dirt because it hazes glass and pits older frames if it's left to sit. Exposed properties on the ridge do better on a shorter cycle than sheltered ones.",
+    "neighbourhoods": ["Blackrod village", "Scot Lane End", "Little Scotland", "Grimeford", "Red Rock", "Aspull", "Adlington"],
+    "landmarks": ["St Katharine's Church", "Blackrod railway station", "Red Moss nature reserve", "the Douglas valley"],
+    "faqs": [
+      {
+        "q": "The wind up here is relentless. Does a pole still work in it?",
+        "a": "Up to a point. We work in most weather, but if it's blowing hard enough that the pole won't sit steady at full height, we'll move that address to the next available day rather than do a rushed job on it. It doesn't happen often, and you'd hear from us either way."
+      },
+      {
+        "q": "We've got leaded panes in an old stone cottage near the church. Is a pole safe on those?",
+        "a": "Yes, and safer than a ladder and a scrim. There's no pressure involved, just a soft brush and clean water rinsing everything away. What we do watch for is old putty and loose leading, so we go gently over anything that looks tired and tell you if we spot something a glazier ought to see."
+      },
+      {
+        "q": "Is Blackrod actually on a regular round, or do you just fit it in?",
+        "a": "It's a proper round. We come over the motorway and do Blackrod on the back of the Horwich day, normally the afternoon. That means the schedule is settled and predictable rather than us making a special trip, which is why the village can sit on a regular cycle instead of being done when we happen to be passing."
+      }
+    ],
+    "nearby": ["horwich", "bolton", "westhoughton", "adlington", "standish"]
+  },
+  {
+    "slug": "bromley-cross",
+    "name": "Bromley Cross",
+    "county": "Greater Manchester",
+    "postcodes": ["BL7"],
+    "roundDay": "Mondays",
+    "travel": "Fifteen minutes north up Darwen Road.",
+    "intro": "Big windows, mature trees and moorland weather. That combination is why houses around Bromley Cross, Dunscar and Egerton need doing more often than people expect. We work BL7 on Mondays with a pole and purified water, which gets the roof lanterns, the conservatory glass and the top of a three-storey gable without anything leaning on the building. It's all done from the drive.",
+    "housing": "North Bolton's housing is a mix of the very old and the very deliberate. Stone weavers' cottages and mill terraces survive at Eagley, Dunscar and Chapeltown, tucked into the brook valleys where the bleachworks used to be. Around them sit large detached houses from the sixties through to now, the sort with double-height hallway windows, orangeries, glass balustrades and roof lanterns. Bradshaw and Harwood add streets of solid interwar and postwar semis. The more glass a house has, the more obvious it is when it hasn't been done, which is why this patch wants a shorter gap than most.",
+    "local": "Darwen Road climbs north out of Bolton and everything hangs off it. Bromley Cross station is on the Ribble Valley line, the Last Drop Village sits just off the road as a set of converted farm buildings, and further up you're into Egerton and Chapeltown with Turton Tower behind. Jumbles Reservoir fills the Bradshaw Brook valley to the east, and Wayoh is further north again. Past Egerton the housing thins out fast and it's open moorland up towards Belmont and Winter Hill.",
+    "challenge": "Trees are the main culprit, and there are a lot of them. Sap in early summer, blossom before that, leaf mould in autumn, and bird mess all year where branches overhang a drive. Sap in particular sets hard on glass and won't shift with a rinse. This is also the last built-up ground before the moor, so wind off Turton Moor and Belmont carries grit and rain in horizontally. Conservatory and orangery roofs collect all of it and hold onto it.",
+    "neighbourhoods": ["Dunscar", "Eagley", "Egerton", "Chapeltown", "Cox Green", "Toppings", "Turton", "Bradshaw", "Harwood"],
+    "landmarks": ["Turton Tower", "Jumbles Reservoir", "the Last Drop Village", "Wayoh Reservoir", "Bromley Cross railway station"],
+    "faqs": [
+      {
+        "q": "We've got a roof lantern and an orangery. Can you reach the top of those?",
+        "a": "Yes. Poles get onto flat roof lanterns and conservatory roofs from ground level, which is the only sensible way to do them. Roofs need more frequent attention than the walls, because rainwater sits and evaporates up there and leaves behind everything it was carrying."
+      },
+      {
+        "q": "Sap keeps setting on our windows under the trees. Will a normal clean shift it?",
+        "a": "Not always in one go. Fresh sap comes off with water and the brush. Once it's baked on it needs working at, and occasionally a scraper on the pane itself. The honest answer is that under heavy tree cover a four to six week cycle stops it ever reaching the hard stage."
+      },
+      {
+        "q": "Do you use anything on old stone that could damage it?",
+        "a": "No chemicals at all. Filtered, deionised water and a soft bristle brush, nothing else. That matters on the older stone properties round Egerton, Chapeltown and Turton, where sandstone sills and mullions are soft and detergents or pressure washing would do real harm over time."
+      }
+    ],
+    "nearby": ["bolton", "bury", "horwich", "darwen", "ramsbottom"]
+  },
+  {
+    "slug": "bury",
+    "name": "Bury",
+    "county": "Greater Manchester",
+    "postcodes": ["BL9", "BL8"],
+    "roundDay": "Thursdays and alternate Fridays",
+    "travel": "Half an hour east across the A58.",
+    "intro": "Bury's a big patch and we treat it as one. From the terraces round Fishpool and Freetown out to the stone cottages at Greenmount and Tottington, it all gets the same water-fed pole system and the same regular slot. Thursdays and alternate Fridays, mostly, working BL9 and BL8. Frames, sills and glass every time, no ladders, nothing traipsed through the house.",
+    "housing": "You can date most of Bury by walking outwards. Victorian terraces sit closest in, through Fishpool, Freetown and Chesham, built for the mills and packed tight. Elton and Redvales fill in with interwar and council-built semis. Walmersley and Brandlesholme go bigger and greener, with detached houses, long drives and a fair bit of extension glass. Head up to Tottington, Greenmount and Woolfold and the stone comes back, older cottages with small panes and deep sills. The town centre itself has apartments above the shops that nobody could reach with a ladder.",
+    "local": "The market is still the reason a lot of people come to Bury, and it's a couple of minutes from Kay Gardens and the Rock. Bolton Street station is where the East Lancashire Railway runs steam up the Irwell valley towards Ramsbottom. Burrs Country Park follows the same river on the north side of town, all woodland and old bleachworks ruins. The A56 runs north through Walmersley, the M66 takes the fast traffic, and the Metrolink drops down through Radcliffe and Whitefield towards Manchester.",
+    "challenge": "Two different problems depending where you live. In town it's traffic: the A56, the A58 and the M66 put a constant film on anything close, and it's the greasy sort that streaks if you only wipe it. Out at Greenmount, Tottington and Walmersley it's the moor. Holcombe and Scout Moor send weather down the valley all year and grit along with it, while the tree cover up there adds sap and leaf mould. Both want a proper wash rather than a quick going over.",
+    "neighbourhoods": ["Elton", "Fishpool", "Redvales", "Walmersley", "Brandlesholme", "Chesham", "Limefield", "Tottington", "Greenmount", "Woolfold"],
+    "landmarks": ["Bury Market", "the East Lancashire Railway at Bolton Street station", "Burrs Country Park", "Bury Parish Church", "Gigg Lane"],
+    "faqs": [
+      {
+        "q": "We're in a flat above the shops in town. Can you do the upper windows?",
+        "a": "Usually yes, up to about the fourth floor from street level, as long as we can stand somewhere sensible underneath. Anything higher, or anything overhanging a busy pavement where we'd need to close it off, isn't a job for us. Send the address over and we'll look at it properly before committing."
+      },
+      {
+        "q": "Our cottage in Tottington has small stone-framed panes. Does a pole handle those?",
+        "a": "It does. The brush is soft and the water does the lifting, so muck comes out of the corners and off the sills instead of being pushed around them. Older stone properties actually come up better with pure water than with a cloth, because there's nothing left behind to dry into the pointing."
+      },
+      {
+        "q": "The conservatory has hard water marks from the garden sprinkler. Will they come off?",
+        "a": "Worth flagging before we start. Sprinkler and hose overspray dries and leaves mineral deposits that bond to the glass, and that's a different thing from ordinary dirt. A normal clean won't lift established scale. Tell us when we look at the job and we'll say honestly whether it will come off or whether the pane has been etched."
+      }
+    ],
+    "nearby": ["radcliffe", "ramsbottom", "whitefield", "bromley-cross", "bolton"]
+  },
+  {
+    "slug": "radcliffe",
+    "name": "Radcliffe",
+    "county": "Greater Manchester",
+    "postcodes": ["M26"],
+    "roundDay": "Alternate Wednesdays",
+    "travel": "Through Little Lever and down into the valley, about twenty minutes.",
+    "intro": "Radcliffe has changed a lot and it's still changing. Old terraces off Blackburn Street, big postwar estates, and new housing going up on ground that used to be paper mills and works along the Irwell. All of it is M26 and all of it is on our round. Purified water off a pole means clean glass and clean frames without a ladder resting against the render.",
+    "housing": "The terraces closest to the centre, around Blackburn Street, Stand Lane and Black Lane, are the oldest part of the picture and mostly have no front garden at all. Coney Green and the estates off Ainsworth Road brought thousands of semis after the war. What's changed things lately is brownfield building: cleared mill and works land along the river has filled with modern estates and apartment blocks, and those come with much larger window units than anything older in the town. Big single panes look brilliant clean and dreadful dirty.",
+    "local": "Radcliffe sits in the Irwell valley and the river is never far away. Close Park backs onto what's left of Radcliffe Tower, a genuinely old ruin most people drive past without noticing. Coronation Park is nearer the bridge. Pilkington Way took the through traffic off Blackburn Street back in the eighties, and the Metrolink runs along the old railway to Bury one way and Whitefield the other. Outwood Viaduct still stands over the river, with the old line beside it now a walking trail towards Prestwich.",
+    "challenge": "Being low in the river valley is the thing that catches people out. Damp hangs about, mornings are misty more often than a few miles up the hill, and shaded elevations green up quickly as a result. Then there's Pilkington Way and Bury Road, both busy enough to coat the fronts of nearby houses in road film. Add construction dust from whichever brownfield site is being built on at the time, and glass here doesn't stay clean by itself.",
+    "neighbourhoods": ["Black Lane", "Stand Lane", "Coney Green", "Outwood", "Chapelfield", "Radcliffe Bridge", "Ainsworth", "Bradley Fold", "Dumers Lane", "Mount Sion"],
+    "landmarks": ["Radcliffe Tower", "Close Park", "Coronation Park", "Radcliffe Market", "Outwood Viaduct"],
+    "faqs": [
+      {
+        "q": "We've just moved onto one of the new estates by the river. When should the first clean be?",
+        "a": "As soon as you're in, and expect it to take longer than a normal visit. New glass usually carries plaster, silicone and mortar splash from the fit, and while the rest of the site is still being built you'll get dust on it constantly. Once the estate is finished it settles into a normal cycle."
+      },
+      {
+        "q": "Our terrace is right by the tram line and there's nowhere to park. Is that an issue?",
+        "a": "No. We carry water in the van and run a long hose, so we can park a street away and still work the whole row. It's how most of the older streets in Radcliffe get done. We need to get to the glass, not to get the van next to it."
+      },
+      {
+        "q": "Why do our north-facing windows go green when my mum's up at Bromley Cross don't?",
+        "a": "Altitude and damp. You're in the valley bottom next to the Irwell, so the air holds moisture and the sun doesn't get onto that side of the house for long. Algae likes exactly those conditions. Higher, drier ground doesn't have the same trouble. It isn't a fault with your windows."
+      }
+    ],
+    "nearby": ["bury", "little-lever", "whitefield", "prestwich", "kearsley"]
+  }
+]

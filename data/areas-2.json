@@ -1,0 +1,546 @@
+[
+  {
+    "slug": "ramsbottom",
+    "name": "Ramsbottom",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "BL0"
+    ],
+    "roundDay": "Alternate Mondays",
+    "travel": "Up through Bradshaw and over on the A676, twenty-five minutes or so.",
+    "intro": "The Irwell valley narrows sharply at Ramsbottom and the houses climb both sides of it. We run a fortnightly round through the town and the villages above it, working off purified water and a pole so nothing gets leaned against that gritstone. Twenty years of doing this in weather like Ramsbottom's teaches you to book realistically rather than optimistically.",
+    "housing": "Stone is the story here. Rows of gritstone terraces run up off Bolton Street and Bridge Street with steps to the door and windows set deep in thick walls, so the glass sits back from the weather and the reveals hold dirt. Above them are detached Victorian villas built for mill owners, three storeys on sloping plots where a ladder has nowhere flat to stand. Holcombe Brook and Shuttleworth added newer detached and semi stock from the seventies on, and there are apartment conversions in old mill buildings down by the river. Pole work suits all of it, particularly on ground that falls away.",
+    "local": "Bolton Road West comes in from our side and drops you at the Market Place, with the East Lancashire Railway platform a couple of hundred yards off. Peel Tower stands on Holcombe Hill above the whole town and you can see it from most of the round. Nuttall Park runs along the Irwell at the bottom end, and the road north through Stubbins carries on towards Edenfield and Rossendale. Holcombe Village sits up its own lane, all stone and narrow, while Summerseat is back down the valley the other way.",
+    "challenge": "Wind comes off Holcombe Moor and funnels straight down the valley carrying peat grit with it. Anything facing west picks that up within days of a dry spell, then the next shower turns it to streaks. Add coal smoke from the East Lancs Railway when the engines are running, wood burners going all winter in the village, and salt off the gritted roads in January. Stone sills shed their own dust onto the glass below, which is why frames get brushed and not just the pane.",
+    "neighbourhoods": [
+      "Holcombe Village",
+      "Holcombe Brook",
+      "Shuttleworth",
+      "Stubbins",
+      "Summerseat",
+      "Nuttall",
+      "Chatterton",
+      "Hazelhurst",
+      "Edenfield",
+      "Strongstry"
+    ],
+    "landmarks": [
+      "Peel Tower on Holcombe Hill",
+      "East Lancashire Railway and Ramsbottom Station",
+      "Nuttall Park",
+      "Ramsbottom Market Place",
+      "Holcombe Moor"
+    ],
+    "faqs": [
+      {
+        "q": "The lanes up towards Holcombe are steep and narrow. Can you actually get to us?",
+        "a": "Yes. The van doesn't need to be on your drive, we run hose from wherever it's safely parked and that covers a fair distance. Most of the properties up there we do without blocking anybody, and if the lane is genuinely single track we come earlier in the morning when there's less about."
+      },
+      {
+        "q": "Does soot from the steam trains make much difference near the station?",
+        "a": "It does when the railway's running. You get a fine oily black deposit sitting on top of ordinary road dust, and it smears rather than wipes if you go at it with a cloth. Pure water and a soft brush lift it off the glass instead of pushing it around. The streets closest to Bolton Street notice it most."
+      },
+      {
+        "q": "What happens in winter when the roads up to Stubbins and Holcombe ice over?",
+        "a": "We don't take chances with it. If the top roads are bad we do the lower part of town and pick the rest up on the next dry day rather than skipping you for a month. Hard frost stops us anyway, because water on glass below freezing is no use to anybody."
+      }
+    ],
+    "nearby": [
+      "bury",
+      "bromley-cross",
+      "radcliffe",
+      "bolton",
+      "whitefield"
+    ]
+  },
+  {
+    "slug": "whitefield",
+    "name": "Whitefield",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M45"
+    ],
+    "roundDay": "Wednesday mornings",
+    "travel": "Half an hour east on the A58, then down Bury New Road.",
+    "intro": "Whitefield sits where the M60 crosses Bury New Road, with the tram running straight through the middle of it. It's a settled, mostly residential place and that suits a regular round. We work it midweek on purified water, which means no ladders against your rendering and no soapy dribbles left down the frames after we've gone.",
+    "housing": "This is semi country. Long runs of thirties bay-fronted semis off Bury Old Road and Higher Lane, most since extended at the back and a fair few with dormers put in the roof, which pushes the top glass higher than the original builder ever intended. Around Stand and Park Lane the houses get bigger, detached on generous plots, often with conservatories and garden rooms that want doing at the same visit. Then there's postwar estate housing up at Hillock and Chapelfield, and a growing number of low-rise apartment blocks near the Metrolink. Dormers and conservatory roofs are exactly what a pole was made for.",
+    "local": "Two roads run parallel down the town: Bury New Road with the shops and the tram stops, and Bury Old Road climbing past Stand. All Saints at Stand is the one you notice, a big stone church that has been a landmark up on that ridge since the 1820s. Philips Park sits on the Prestwich boundary with proper woodland and steep paths down to the brook. The M60 cuts the south end at junction 17, Besses o' th' Barn has its own tram stop, and the golf course takes up a good chunk of ground off Higher Lane.",
+    "challenge": "The M60 is the main offender. Anything within a few streets of junction 17 collects a greasy traffic film that ordinary washing-up water just smears about. The tram adds its own fine dust along the Bury New Road corridor, and the mature trees round Philips Park and the golf course drop sap and shade the north-facing elevations, so green algae builds in the frame corners. Purified water lifts the film properly and leaves nothing behind to dry into spots.",
+    "neighbourhoods": [
+      "Besses o' th' Barn",
+      "Stand",
+      "Unsworth",
+      "Park Lane",
+      "Chapelfield",
+      "Hillock",
+      "Sunny Bank",
+      "Elms"
+    ],
+    "landmarks": [
+      "All Saints' Church, Stand",
+      "Philips Park",
+      "Whitefield Metrolink stop",
+      "Besses o' th' Barn Metrolink stop",
+      "Whitefield Golf Club"
+    ],
+    "faqs": [
+      {
+        "q": "Does the tram line make windows dirtier along Bury New Road?",
+        "a": "A bit, yes. Trams throw off fine brake and rail dust that settles on anything within a street or two of the line, and it mixes with road film off the main road into a grey haze. It isn't dramatic, but houses closest to the line do look better on a four-weekly visit than an eight-weekly one."
+      },
+      {
+        "q": "We've had a dormer put in the roof. Can you reach the new windows up there?",
+        "a": "Almost always. A pole comfortably reaches a dormer on a standard two-storey semi from the ground, and there are plenty of those round here now. The awkward ones are dormers set well back behind a wide flat roof, where the angle gets tight. Send a photo and we'll tell you straight whether it's doable."
+      },
+      {
+        "q": "Do you clean conservatory roofs, or only the glass sides?",
+        "a": "Both, where the roof is glass or sound polycarbonate and it's safe to reach from the ground. A lot of the Park Lane and Higher Lane semis have big conservatories on the back, and the roof is where moss and leaf debris collects. It's quoted separately from the house windows because it takes longer."
+      }
+    ],
+    "nearby": [
+      "bury",
+      "prestwich",
+      "radcliffe",
+      "manchester",
+      "bolton"
+    ]
+  },
+  {
+    "slug": "prestwich",
+    "name": "Prestwich",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M25"
+    ],
+    "roundDay": "Wednesday afternoons",
+    "travel": "Straight on from Whitefield, about thirty-five minutes from base.",
+    "intro": "Heaton Park takes up most of one side of Prestwich, and the streets around it are as good a bit of window cleaning as you'll find anywhere. Big older houses, plenty of glass, plenty of trees. We're over here on the back of the Whitefield round, working from the ground with a pole and purified water.",
+    "housing": "Sedgley Park and the streets off Bury Old Road have real size to them, Victorian and Edwardian villas with bays on two floors and attic rooms above that. A lot of the larger ones were split into flats years ago, so one building might have four or five separate front doors and four or five different opinions about window cleaning. Elsewhere it's solid interwar semis around Butterstile and Polefield, postwar estates on the Heaton Park side, and out at Simister detached houses with fields behind them. Those tall old villas are where a pole earns its keep, because nobody wants a ladder against soft brick and stained glass.",
+    "local": "Bury New Road runs the length of the place with the Longfield Centre partway along and tram stops at either end. St Mary's is the old parish church, tucked back off the road with its graveyard round it. Prestwich Clough drops away west of Scholes Lane into wooded valley that carries on into Philips Park, and Heaton Park spreads across the whole eastern side with the hall, the boating lake and the golf course inside it. Simister is up beyond the M60 and feels like a different place altogether, a couple of lanes, a pub and a view.",
+    "challenge": "Trees are the difference here. The park, the Clough and the older gardens put a lot of leaf cover over these streets, which means sap, pollen through spring and a slow build of green on anything shaded. Old stone sills wash their own grit down the pane below every time it rains. Then there's the M60, close enough to the Simister and Rainsough end to leave a film on everything facing it. Pure water gets the lot off without detergent, and nothing is left on the glass to attract more.",
+    "neighbourhoods": [
+      "Sedgley Park",
+      "Simister",
+      "Rainsough",
+      "Polefield",
+      "Butterstile",
+      "St Mary's Park",
+      "Hilton Lane",
+      "Kersal"
+    ],
+    "landmarks": [
+      "Heaton Park",
+      "Prestwich Clough",
+      "St Mary's Church",
+      "Longfield Centre",
+      "Philips Park"
+    ],
+    "faqs": [
+      {
+        "q": "Our Victorian house was split into flats years ago. Can you do just our windows?",
+        "a": "Yes, though it's simpler and better value when the whole building goes on the round together. Plenty of the converted villas around Sedgley Park are done that way with one person organising it. If it's only your flat, we clean your windows and leave the rest, no problem at all."
+      },
+      {
+        "q": "We back onto Heaton Park and get a lot of sap and bird mess. How often should we be done?",
+        "a": "Four-weekly through spring and summer is sensible on that side. Lime and sycamore sap goes sticky then hard, and once it has baked on it takes real work to shift rather than a routine clean. Through winter you can stretch it out, because the trees stop dropping and the main issue becomes green algae instead."
+      },
+      {
+        "q": "We have leaded lights and old putty. Is pure water safe on that?",
+        "a": "It is. There's no detergent and no chemical involved, just filtered water and a soft bristle brush, so nothing gets attacked and nothing is left in the joints to bleed out later. We work the brush along the leadwork rather than scrubbing across it, which matters on older glass that has already moved a little."
+      }
+    ],
+    "nearby": [
+      "whitefield",
+      "salford",
+      "manchester",
+      "bury",
+      "radcliffe"
+    ]
+  },
+  {
+    "slug": "walkden",
+    "name": "Walkden",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M28",
+      "M38"
+    ],
+    "roundDay": "Fridays",
+    "travel": "Fifteen minutes down the A6, or off the M61 at junction 4.",
+    "intro": "Walkden is close enough to Bolton that it's barely a journey. Half the town commutes the other way down the A6 in the morning and we come against the traffic, which suits us fine. It's a big round: mixed housing, lots of it, and a Friday that usually runs from Little Hulton at the top down through to the Ellenbrook end.",
+    "housing": "There's a lot of postwar semi and terrace here, built while the pits were still working, plus the big estates that went up at Little Hulton and Peel. From the eighties onward the private developers filled in around Ellenbrook, Amblecote and Mosley Common with detached and link-detached houses, and that has carried on. There are streets off Newearth Road where the render is barely weathered yet. Newer builds tend to have small top-hung openers, deep plastic frames and a fair bit of glass in the door surround, all of which looks smart until the frames go grey and the glass doesn't get touched.",
+    "local": "The Ellesmere Centre and the bus station sit in the middle of it with the A6 running past and the railway station up the hill. Parr Fold Park is the old one, mature trees and proper Victorian bones, while Blackleach Country Park is up towards Little Hulton around the reservoir. Walkden Road heads south past Ellenbrook towards Worsley, the East Lancs Road cuts across the bottom, and Boothstown sits over the far side near the Bridgewater Canal. Most of what we clean here is off Manchester Road, Newearth Road and the estates either side of them.",
+    "challenge": "Traffic does most of it. The A6 through the middle and the East Lancs across the bottom lay a fine oily film on anything within a few hundred yards, and the M61 adds to that at the Little Hulton end. On the newer estates you get the opposite problem: white uPVC and pale render that show every splash, with rainwater running off unweathered roof tiles carrying grit down onto the glass below. Open ground towards Ellenbrook and Mosley Common means wind-blown soil in a dry spell too.",
+    "neighbourhoods": [
+      "Little Hulton",
+      "Ellenbrook",
+      "Boothstown",
+      "Mosley Common",
+      "Amblecote",
+      "Peel",
+      "Wharton",
+      "Blackleach",
+      "Hilton Lane"
+    ],
+    "landmarks": [
+      "Ellesmere Shopping Centre",
+      "Parr Fold Park",
+      "Blackleach Country Park",
+      "Walkden railway station",
+      "Bridgewater Canal at Boothstown"
+    ],
+    "faqs": [
+      {
+        "q": "Our house is new and there's cement splash and sticker glue on the glass. Can that come off?",
+        "a": "Usually. Mortar splash and builders' film need a proper first clean rather than a routine one, sometimes with a blade used carefully on toughened glass. Once it's off, normal visits keep it clear. Tell us before the first visit so we allow the extra time instead of turning up expecting a quick job."
+      },
+      {
+        "q": "We're right on Manchester Road and our windows go dirty faster than my mum's off Newearth Road. Why?",
+        "a": "Traffic film. Main roads throw up an oily mix of exhaust residue, tyre and brake dust that clings to glass much harder than ordinary dirt. A few hundred yards back from the A6 and it drops off noticeably. It's the usual reason people on the main road go four-weekly while everyone else is happy at six."
+      },
+      {
+        "q": "Do you cover Little Hulton and Boothstown as well as Walkden itself?",
+        "a": "Yes, both are on the same Friday. Little Hulton sits at the top of the run and Boothstown at the bottom, with Ellenbrook and Mosley Common in between. If you're on the edge of any of those and not sure whether you're in, just ask, because it's rarely a problem."
+      }
+    ],
+    "nearby": [
+      "worsley",
+      "swinton",
+      "farnworth",
+      "kearsley",
+      "tyldesley"
+    ]
+  },
+  {
+    "slug": "worsley",
+    "name": "Worsley",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M28"
+    ],
+    "roundDay": "Alternate Fridays",
+    "travel": "Twenty minutes, down Walkden Road off the A6.",
+    "intro": "The water in the canal at Worsley runs orange, which throws people who haven't seen it before. It's iron ore coming out of the old mine soughs. That's the sort of place this is: old, listed, carefully looked after, and full of houses where nobody wants a ladder anywhere near the paintwork. Pole and pure water only, from the ground.",
+    "housing": "The village core is a conservation area and it shows. Half-timbered Egerton estate cottages, tall sash windows, leaded lights and stonework you wouldn't want scraped. Around the greens at Roe Green and Beesley Green there are substantial detached houses on wide plots, plenty of them with garden rooms and glazed extensions at the back. Head towards Boothstown and Ellenbrook and it changes completely: large modern detached, four and five bedrooms, double-height hall windows and glass everywhere. Two fairly different jobs, but both done the same way, from the ground with soft brushes and purified water.",
+    "local": "The Delph is where the canal meets the old mine entrances, with the Packet House and its black-and-white front looking over the water. Worsley Green has the monument standing where the yard chimney used to be. St Mark's is up on the hill, its spire visible from the motorway, and the Bridgewater Canal runs west from the village towards Boothstown and Astley. RHS Bridgewater opened on the old Worsley New Hall grounds off Leigh Road and has brought a lot more traffic through. Worsley Woods and the Old Warke Dam fill the ground between the village and the M60.",
+    "challenge": "Shade and damp do most of the damage. The canal and the woods keep the air moist, tree cover keeps the sun off, and north-facing glass grows a green film in weeks rather than months. Leaded lights and old putty in the village want a light touch, not a scouring. Out by the M60 and the East Lancs it's the opposite, a hard traffic film on everything facing the road. Both come off with pure water and a soft brush, and neither wants detergent left sitting in the joints.",
+    "neighbourhoods": [
+      "Worsley Village",
+      "Roe Green",
+      "Beesley Green",
+      "Boothstown",
+      "Ellenbrook",
+      "Mosley Common",
+      "Wardley",
+      "Monton"
+    ],
+    "landmarks": [
+      "Worsley Delph",
+      "The Packet House",
+      "Worsley Green monument",
+      "St Mark's Church",
+      "RHS Garden Bridgewater"
+    ],
+    "faqs": [
+      {
+        "q": "We're inside the conservation area with original timber and leaded lights. Is your method safe on that?",
+        "a": "Yes. Purified water and a soft brush, no detergents, and no ladders resting against timber or render. That last point matters on the black-and-white estate cottages, where a ladder foot in the wrong place does real damage. Everything is done from the ground and the frames are rinsed rather than scoured."
+      },
+      {
+        "q": "Our garden backs onto the canal and there's no side gate. How do you reach the rear windows?",
+        "a": "We'd need to come through the house or have a gate key, same as anyone. Some canal-side properties can be reached from the towpath side if the pole angle works, but we'd want to look before promising it. Worth a five-minute visit to check rather than guessing over the phone."
+      },
+      {
+        "q": "Does the north side of the house really need doing more often out here?",
+        "a": "It does. Between the woods, the canal and the shade, glass and frames facing north stay damp and grow a green film noticeably faster than the sunny side. Most people round the village settle on four-weekly for that reason. Six-weekly works fine on the more open plots towards Boothstown and Ellenbrook."
+      }
+    ],
+    "nearby": [
+      "walkden",
+      "swinton",
+      "salford",
+      "tyldesley",
+      "manchester"
+    ]
+  },
+  {
+    "slug": "swinton",
+    "name": "Swinton",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M27"
+    ],
+    "roundDay": "Alternate Thursdays",
+    "travel": "Down the A666 to the East Lancs, about twenty-five minutes.",
+    "intro": "Swinton and Pendlebury run into each other along Chorley Road, and most of our work here is on the residential streets either side of it. We've been coming into this part of Salford for years now. Fortnightly round, water-fed pole, purified water carried in the van. Nothing gets propped against your gutters, your conservatory roof or the neighbour's fence.",
+    "housing": "Chorley Road is lined with older terraces and semis, and behind them it opens up. Moorside and the Swinton Park end have decent-sized detached and thirties bay semis with mature gardens. Pendlebury keeps a lot of Victorian brick terrace, some of it three storeys with the front door straight onto the flags. Wardley and Clifton are mostly postwar estate housing, and there's newer development on reclaimed colliery ground around Agecroft and down towards the river. Where a house has been rendered or had new windows fitted, the frames tend to be what people notice first, so those get done as a matter of course.",
+    "local": "Chorley Road is the spine, with Swinton Square and the Civic Centre partway along and St Peter's church tower behind. Victoria Park is the green bit in the middle of town, small but well used. North of there the ground drops to the Irwell and Clifton Country Park, which was colliery and open cast land long before it was a lake and woodland. The East Lancs Road crosses the top end on its way to Liverpool and the M60 clips the south side. Pendlebury has St Augustine's, a far bigger church than the street it stands on would suggest.",
+    "challenge": "Two things, mainly. Road film off the East Lancs and the M60 drifts a long way in still weather and settles as a greasy grey layer that needs lifting rather than smearing. And the older brick terraces shed a fine reddish dust off soft brickwork and sandstone lintels every time it rains, which lands on the glass underneath. Down by the Irwell at Clifton the air stays damper and algae takes hold on shaded frames. None of it is difficult, it just needs doing properly and doing regularly.",
+    "neighbourhoods": [
+      "Pendlebury",
+      "Moorside",
+      "Wardley",
+      "Clifton",
+      "Agecroft",
+      "Swinton Park",
+      "Folly Lane",
+      "Irlams o' th' Height"
+    ],
+    "landmarks": [
+      "Salford Civic Centre on Chorley Road",
+      "Victoria Park",
+      "Clifton Country Park",
+      "Church of St Peter, Swinton",
+      "St Augustine's Church, Pendlebury"
+    ],
+    "faqs": [
+      {
+        "q": "We're in a Pendlebury terrace with a shared back entry. Can you get to the rear windows?",
+        "a": "Nearly always. The entries are narrow but a pole doesn't need much room, and the van stays on the street with hose run down the ginnel. The only ones that beat us are entries that have been gated with nobody holding a key, or where a rear extension leaves no standing room at all."
+      },
+      {
+        "q": "Do you clean the flats above the shops on Chorley Road?",
+        "a": "Where they're within pole reach and there's somewhere legal to park nearby, yes. Two and three storeys over a shop front is straightforward. What we won't do is anything needing a ladder off a live pavement or the road, because it isn't safe and it isn't fair on people walking past."
+      },
+      {
+        "q": "We're a few streets from the East Lancs. Is a monthly clean overkill?",
+        "a": "No, it's about right. Traffic film off a road that busy drifts further than people expect and it builds as a greasy layer rather than loose dust. Four-weekly keeps on top of it. Further into Moorside or up towards Clifton you can usually go six or eight weeks without the house looking neglected."
+      }
+    ],
+    "nearby": [
+      "worsley",
+      "salford",
+      "walkden",
+      "prestwich",
+      "manchester"
+    ]
+  },
+  {
+    "slug": "salford",
+    "name": "Salford",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M5",
+      "M6",
+      "M7",
+      "M30",
+      "M50"
+    ],
+    "roundDay": "Thursdays",
+    "travel": "Half an hour down the A6 through Pendlebury.",
+    "intro": "Salford is a big place and we don't pretend to cover all of it. What we do is the residential side: Ellesmere Park, Monton, the Broughton and Kersal streets, Weaste, Irlams o' th' Height, plus low-rise apartment blocks where the top floor is still within reach of a pole. Anything genuinely high-rise needs rope access or a cradle, and that isn't us.",
+    "housing": "Ellesmere Park is the grand end, large Victorian and Edwardian villas set back behind hedges, three storeys, bay after bay, and a lot of original glass still in place. Monton has smart Edwardian semis and terraces on tight streets. Broughton Park and Kersal run to big detached houses on wide roads. Down at Weaste, Seedley and Pendleton it's dense brick terrace, much of it improved, and around the Quays it's modern apartment blocks with balconies and floor-to-ceiling glazing. Villas and terraces we handle from the ground as normal. On the apartments it depends entirely on how high your flat sits.",
+    "local": "The A6 runs from Manchester out through Pendleton and up to Irlams o' th' Height, with Eccles New Road and Regent Road carrying the rest of the traffic. Buile Hill Park sits on the rise above Eccles Old Road with the big houses around it. Monton has the canal, the little lighthouse by the bridge and a row of independents along Monton Road. Peel Park and the university are on the Crescent, Ordsall Hall is the old timber house down near the docks, and the Quays have the Lowry and MediaCity right at the water's edge.",
+    "challenge": "This is city glass and it dirties faster than anything out our way. Regent Road and the A6 carry constant heavy traffic, and the film that leaves behind is oily rather than dusty, so it wants proper cleaning and not a wipe. Around the Quays and the Ship Canal there's open water and very little shelter, so wind drives dust and rain straight at whichever elevation faces it. Older sandstone lintels in Weaste and Seedley keep dropping grit down the pane. Four-weekly is realistic here.",
+    "neighbourhoods": [
+      "Ellesmere Park",
+      "Monton",
+      "Irlams o' th' Height",
+      "Weaste",
+      "Seedley",
+      "Pendleton",
+      "Higher Broughton",
+      "Kersal",
+      "Charlestown",
+      "Salford Quays"
+    ],
+    "landmarks": [
+      "The Lowry and MediaCityUK",
+      "Ordsall Hall",
+      "Buile Hill Park",
+      "Peel Park and the Crescent",
+      "Monton lighthouse"
+    ],
+    "faqs": [
+      {
+        "q": "We're in an apartment block at the Quays. How high can you actually reach?",
+        "a": "Roughly four storeys from ground level with a pole, sometimes a bit more depending on the setback and where the van can stand. Above that it needs rope access or a cradle, which is a different trade entirely. Blocks are usually the managing agent's decision rather than an individual owner's, so that's worth checking first."
+      },
+      {
+        "q": "Our Ellesmere Park villa is three storeys with a lot of glass. Do you need scaffolding?",
+        "a": "No. Three storeys is standard pole work, and it's the main reason people out there stopped using ladder cleaners. Those houses often have stone mullions, deep reveals and original glazing bars that hold dirt, so the brush spends as much time on the frames as the panes. It takes longer than a modern semi."
+      },
+      {
+        "q": "Can you get down the shared back entries on the Weaste and Seedley terraces?",
+        "a": "Usually, if they aren't gated and locked. Where an entry is blocked with bins or badly overgrown we'll say so rather than force it. Some of those streets have been alley-gated, in which case we need a key or somebody in on the day, or we clean the fronts only and price it accordingly."
+      }
+    ],
+    "nearby": [
+      "swinton",
+      "worsley",
+      "manchester",
+      "prestwich",
+      "walkden"
+    ]
+  },
+  {
+    "slug": "manchester",
+    "name": "Manchester",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "M8",
+      "M9",
+      "M19",
+      "M20",
+      "M21"
+    ],
+    "roundDay": "Alternate Thursdays, south side one week and north the next",
+    "travel": "Forty minutes, either the M60 or straight down the A666.",
+    "intro": "We take Manchester work, but selectively. Houses and low-rise flats in the suburbs, Didsbury, Chorlton, Withington, Burnage, Crumpsall, Blackley, rather than towers in the city centre. A pole reaches roughly four storeys from the ground and we're straight with people about that. If your glass is higher than that you want a rope access firm, not a window cleaner from Bolton.",
+    "housing": "South Manchester gives you the tall stuff: red brick Victorian and Edwardian semis and villas through Didsbury and Chorlton, three storeys with attic dormers, bays front and back, and a good number split into flats or converted into small apartment blocks. Withington and Fallowfield are similar with more rented terrace mixed in. Levenshulme and Burnage are mostly two-up two-down and thirties semi. North of the centre, Crumpsall, Blackley and Cheetham Hill are interwar semis and postwar estates on higher ground. Older Manchester brick is soft and the sandstone details softer still, so it's brush and pure water, nothing abrasive.",
+    "local": "Wilmslow Road runs south through Fallowfield and Withington to Didsbury village, with Palatine Road and Barlow Moor Road doing the same job further west through Chorlton. The Mersey loops along the bottom of both with the water park and the meadows either side, and Fletcher Moss is the botanical gardens at the Didsbury end. Platt Fields breaks up Fallowfield. On the north side, Boggart Hole Clough at Blackley is a proper wooded ravine and Queens Park sits above Harpurhey. Kingsway carries traffic down the eastern edge through Burnage and Levenshulme.",
+    "challenge": "City air is the whole problem. Constant traffic on Wilmslow Road, Kingsway and Princess Parkway leaves a diesel film that bonds to glass and won't shift with a sponge and washing-up liquid. Street trees along the older avenues drop sap and blossom, and the parks bring pollen through spring. Round Levenshulme and Burnage the railway adds brake dust. On the shaded sides of tall Victorian houses, green algae settles into the frame joints and stays. It all comes off, but the intervals need to be shorter than in a Bolton side street.",
+    "neighbourhoods": [
+      "Didsbury",
+      "Withington",
+      "Chorlton-cum-Hardy",
+      "Fallowfield",
+      "Burnage",
+      "Levenshulme",
+      "Crumpsall",
+      "Blackley",
+      "Cheetham Hill",
+      "Harpurhey"
+    ],
+    "landmarks": [
+      "Fletcher Moss Botanical Gardens",
+      "Chorlton Water Park",
+      "Platt Fields Park",
+      "Boggart Hole Clough",
+      "Queens Park, Harpurhey"
+    ],
+    "faqs": [
+      {
+        "q": "Our Victorian house in Didsbury is split into four flats. Do you do individual flats?",
+        "a": "We can, but it's tidier when the whole building goes on one round and the cost gets shared out. That's how most of the converted houses we do are arranged. If only one flat wants cleaning, we clean the windows belonging to that flat and leave the rest of the building alone."
+      },
+      {
+        "q": "We're on the eighth floor of a city centre block. Can you help?",
+        "a": "No, and it's better we say so now. A water-fed pole tops out around four storeys. Anything above that needs a rope access or cradle company with the right training and insurance. We'd rather turn the work down than pretend otherwise, and any decent cleaner will tell you the same thing."
+      },
+      {
+        "q": "Do you actually come into Manchester regularly, or is this a one-off trip?",
+        "a": "It's a scheduled run, alternate Thursdays, south side one week and north the next. We set it up that way so Manchester work isn't squeezed in around Bolton jobs. If your street doesn't fit either half of that route we'll say so rather than book you and then keep rearranging."
+      }
+    ],
+    "nearby": [
+      "salford",
+      "prestwich",
+      "whitefield",
+      "swinton",
+      "worsley"
+    ]
+  },
+  {
+    "slug": "wigan",
+    "name": "Wigan",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "WN1",
+      "WN2",
+      "WN3",
+      "WN5",
+      "WN6"
+    ],
+    "roundDay": "Tuesdays",
+    "travel": "Out on the A58 through Westhoughton and Hindley, half an hour.",
+    "intro": "Wigan is a big spread of a town and we've built a decent Tuesday round across it. The housing is what you'd expect from a place built on coal and cotton, terraces near the middle, estates round the edge, and pockets of much bigger property out towards Aspull and Shevington. All of it done on a pole with purified water.",
+    "housing": "Terraced streets dominate the older parts, particularly around Whelley, Ince and Scholes, and plenty of those have the front window sitting a foot back from the pavement with no room to stand a ladder even if you wanted one. Move out and you get interwar semis along Wigan Lane and Beech Hill, then large postwar estates at Worsley Mesnes, Norley Hall and Marus Bridge. Towards Aspull, Orrell and Shevington the properties get bigger and the plots wider, often with conservatories and detached garages wanting doing too. The recent estates off the ring road are all uPVC, which shows dirt on the frames badly.",
+    "local": "Standishgate and Wallgate meet in the middle of town and the roads fan out from there. Mesnes Park is the Victorian one just north of the centre off Wigan Lane, with its pavilion and bandstand. Haigh Hall and its woodland sit up on the hill above Aspull, and on a clear day you can see a long way from the top. Wigan Pier and Trencherfield Mill are down on the Leeds and Liverpool Canal at the bottom of Wallgate, the stadium is off the Robin Park side, and the M6 runs down the western edge with junctions 25 and 26 either end.",
+    "challenge": "Wigan gets weather straight off the Lancashire plain with very little to stop it, so west-facing glass takes a hammering all winter. The M6 down the west side leaves a film on anything within earshot, and the A49 and the ring road do the same closer in. Old brick and stone in the terraced streets still holds soot from when the pits were working, and that washes down onto the glass whenever it rains hard. Canal-side and flash-side properties stay damp longer, which means green growth in the frame corners.",
+    "neighbourhoods": [
+      "Whelley",
+      "Scholes",
+      "Ince",
+      "Pemberton",
+      "Beech Hill",
+      "Swinley",
+      "Marus Bridge",
+      "Worsley Mesnes",
+      "Norley Hall",
+      "Aspull"
+    ],
+    "landmarks": [
+      "Mesnes Park",
+      "Haigh Hall and Woodland Park",
+      "Wigan Pier and Trencherfield Mill",
+      "Wigan Parish Church",
+      "Leeds and Liverpool Canal"
+    ],
+    "faqs": [
+      {
+        "q": "Our terrace off Scholes has no back access at all. What happens to the rear windows?",
+        "a": "If there's a ginnel we use it. Where there genuinely isn't one, the only route is through the house, which some people are happy with and some aren't. If neither works we clean the fronts and price it accordingly, rather than charging you for glass we can't actually get to."
+      },
+      {
+        "q": "We're by the canal at Ince and the frames keep going green. Why there in particular?",
+        "a": "Standing water and shade. Canal and flash-side properties hold damp air far longer, and algae takes hold in the frame corners and the rubber seals where it stays wet. It brushes off with pure water easily enough, but it will come back faster than two streets away, so a shorter interval helps."
+      },
+      {
+        "q": "Do you cover Standish, Aspull and Orrell as well as Wigan itself?",
+        "a": "Standish and Aspull yes, both regularly. Orrell and Shevington we do where they fit the Tuesday route, which they usually do. The far side towards Billinge and Ashton starts getting thin for us, so ask before you count on it rather than assuming we're already down there."
+      }
+    ],
+    "nearby": [
+      "standish",
+      "westhoughton",
+      "leigh",
+      "atherton",
+      "horwich"
+    ]
+  },
+  {
+    "slug": "leigh",
+    "name": "Leigh",
+    "county": "Greater Manchester",
+    "postcodes": [
+      "WN7"
+    ],
+    "roundDay": "Tuesday afternoons, on from the Wigan round",
+    "travel": "Through Atherton on the A579, twenty-five minutes.",
+    "intro": "Leigh sits on flat ground with the mosses to the south, which means very little shelters it. We come through Atherton on a Tuesday and work the town in blocks, Bedford and Pennington one week, Westleigh and the Plank Lane side the next. Ground-level work throughout, purified water, no ladders and nothing standing in your borders.",
+    "housing": "Cotton and coal built most of what's here, so there are long straight terraced rows through Bedford and Pennington, brick fronts flush to the pavement, replacement uPVC dropped into the same openings the sashes came out of. Behind them sit interwar semis along Firs Lane and Manchester Road, then postwar estates at Higher Folds and Westleigh. More recently a fair bit has gone up around the Sports Village and along the canal at Plank Lane, modern three-storey townhouses with the top windows well above ladder height. Terraces and townhouses both come out better from the ground than they ever did off a ladder.",
+    "local": "Market Street and Bradshawgate run through the middle with the Town Hall and the Turnpike building at the top end. The Bridgewater Canal comes in from Astley and finishes in the town, and Plank Lane has the lift bridge over it. Pennington Flash is the big one, a lake formed by mining subsidence and now a country park full of birds, sitting right on the southern edge. Lilford Park is the wooded one off Atherleigh Way. The Sports Village is out towards Hope Carr and the busway runs from Leigh across the mosses towards Manchester.",
+    "challenge": "Nothing breaks the wind here. The mosses to the south are flat, open and peaty, and in a dry spell that soil lifts and travels, which is why south-facing windows go dull so quickly in summer. Farm traffic on the lanes towards Astley and Lowton adds to it. Winter brings the opposite, long damp spells with the canal and the Flash keeping the air wet, so green algae builds on shaded frames. The East Lancs across the bottom leaves the usual traffic film on anything close to it.",
+    "neighbourhoods": [
+      "Bedford",
+      "Pennington",
+      "Westleigh",
+      "Higher Folds",
+      "Plank Lane",
+      "Hope Carr",
+      "Firs Lane",
+      "Landside",
+      "Lowton",
+      "Astley"
+    ],
+    "landmarks": [
+      "Pennington Flash Country Park",
+      "Leigh Town Hall",
+      "Leigh Sports Village",
+      "Plank Lane lift bridge on the Bridgewater Canal",
+      "Turnpike Gallery"
+    ],
+    "faqs": [
+      {
+        "q": "Bedford is all terraces with no rear access. Can you still clean the backs?",
+        "a": "Where there's an entry or a shared yard, yes, and most of those streets have one. The pole goes over from wherever we can safely stand. Where the back is completely enclosed we'd need to come through the house, or clean the front only. We'll tell you which applies when we first look."
+      },
+      {
+        "q": "In summer everything goes dusty within a fortnight. Is that the mosses?",
+        "a": "Very likely. The peat ground south of Leigh dries out and lifts in a dry spell, and there's nothing between it and the town to slow it down. It's a fine light dust that settles evenly rather than streaking, so windows look hazy instead of dirty. It rinses off easily, it just keeps coming back."
+      },
+      {
+        "q": "The new townhouses at Plank Lane are three storeys. Are the top windows a problem?",
+        "a": "Not at all. Three storeys is well inside pole range, and those are exactly the properties that are awkward any other way, because there's no safe ladder footing on the frontages. Same goes for the ones facing the canal, as long as we can reach that elevation from a path or the towpath."
+      }
+    ],
+    "nearby": [
+      "atherton",
+      "tyldesley",
+      "wigan",
+      "westhoughton",
+      "worsley"
+    ]
+  }
+]

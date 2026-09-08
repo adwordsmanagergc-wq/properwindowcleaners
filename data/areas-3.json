@@ -1,0 +1,292 @@
+[
+  {
+    "slug": "atherton",
+    "name": "Atherton",
+    "county": "Greater Manchester",
+    "postcodes": ["M46"],
+    "roundDay": "Tuesdays",
+    "travel": "Twenty minutes down the A579 through Westhoughton.",
+    "intro": "Atherton, or Chowbent if you have lived here long enough, sits about eight miles south west of Bolton and it makes for a straightforward Tuesday. The town is compact, which suits the way we work: park once, run the hose out, and get through a fair few houses before shifting the van. Pit cottage or new build, it all gets the same purified water.",
+    "housing": "Howe Bridge is the interesting bit. Those cottages were put up by Fletcher Burrows for the colliery men and count among the earliest planned pit housing in the country, small panes with stone heads and sills that hold muck in the grain. Round Hindsford and Bag Lane it is ordinary brick terraces, front doors onto the flag, back alleys behind. Hag Fold is largely postwar semis with decent sized openings. Off Leigh Road and out by Atherleigh you find modern detached with big sealed units and a lot of conservatory glass. All of it cleans fine from the deck.",
+    "local": "Market Street is the spine of the place and most of our Atherton work sits within half a mile of it. Chowbent Unitarian Chapel has been standing since the 1720s and still looks the part, while the spire of St John the Baptist is the thing you pick out coming in from the Leigh road. Formby Hall sits over on the Bolton Old Road side. Atherleigh Way takes the through traffic away from the middle now, which makes the residential streets far easier to work in, and the railway station puts you on the Southport line a couple of minutes from the shops.",
+    "challenge": "Flat ground and old industry is the mix. There is no hill to shelter behind, so westerlies come across the fields from the Leigh side carrying dust in dry spells and salt spray off the gritters through winter. Atherleigh Way lays a steady film of road grime on anything within a couple of streets of it. Older brickwork sheds a fine red dust down the pane after heavy rain and the sandstone sills at Howe Bridge do much the same. Tap water leaves a mark as it dries. Ours has the minerals taken out first, so it does not.",
+    "neighbourhoods": ["Howe Bridge", "Hindsford", "Hag Fold", "Atherleigh", "Gadbury Fold", "Bag Lane", "Shakerley", "Chowbent"],
+    "landmarks": ["Chowbent Unitarian Chapel", "St John the Baptist Church", "Formby Hall", "Howe Bridge model village", "Atherton railway station"],
+    "faqs": [
+      {
+        "q": "Do you clean the old colliery cottages at Howe Bridge?",
+        "a": "Regularly. They tend to have smaller panes and stone heads and sills, so the brush earns its keep working into the corners and under the stone head where grit settles. Nothing leans on the building and nobody stands on the step. Those cottages come up well once they have had a few visits rather than one."
+      },
+      {
+        "q": "We have no side gate on our Hindsford terrace. Can you still get to the back?",
+        "a": "Usually, through the back alley, which is how most of those rows were built to be reached. If the alley is gated and you have no key, we will do the front and tell you rather than quietly charging for windows we could not touch. Plenty of customers on those streets have us do fronts only and that is fine."
+      },
+      {
+        "q": "Which day does the van come through Atherton?",
+        "a": "Tuesdays, on the same run as Wigan and Leigh, and Tyldesley falls the following morning. Knowing the day helps if you want gates unbolting or a dog putting in. If a street builds up to a few houses we can generally get the lot done in one stop without moving the van."
+      }
+    ],
+    "nearby": ["tyldesley", "leigh", "westhoughton", "walkden", "wigan"]
+  },
+  {
+    "slug": "tyldesley",
+    "name": "Tyldesley",
+    "county": "Greater Manchester",
+    "postcodes": ["M29"],
+    "roundDay": "Wednesday mornings",
+    "travel": "Down the A577 through Atherton, about twenty-five minutes.",
+    "intro": "The A577 runs along the ridge and Tyldesley is built along it, so from the top end you are looking out across the mosslands towards Manchester. We come through on Wednesday mornings, generally starting at the Shakerley end and working down. Near enough next door to Atherton, which means a street here is easy for us to keep on the books.",
+    "housing": "Elliott Street and the roads dropping away from it are mill-era terraces, brick, small front rooms, windows tight to the footpath. Gin Pit and Shakerley still have rows built for the collieries. Out along Sale Lane and Manchester Road it turns into thirties semis with bay windows and then bungalows, a good number of which have had conservatories or garden rooms added since. Astley and Mosley Common bring newer detached with taller glass and rooflights. The slope of the ridge makes ladders awkward on plenty of these. A pole does not care about the slope.",
+    "local": "Top Chapel has stood in the market square since 1789 and people still give directions by it. St George's spire, a hundred and fifty feet of it, shows from most of the town and from the fields below. Down at Astley Green the colliery headgear still stands over the museum, the last one left in the Lancashire coalfield, with the Bridgewater Canal running past the bottom of it. The guided busway follows the route of the old Tyldesley loopline through the town, handy for getting about, though it throws up its share of road dirt on the way.",
+    "challenge": "Being up on the ridge cuts both ways. There is a decent breeze most days which dries things out, but that same wind lifts peat and field dust off the mosses in summer and drives rain hard against west-facing glass in winter. Houses backing onto the busway or the A577 pick up traffic film faster than the rest of the town. Older brick throws a powdery residue down the pane after a wet spell, and north-facing frames under trees turn green if they are left alone too long.",
+    "neighbourhoods": ["Shakerley", "Gin Pit", "Astley", "Higher Green", "Mosley Common", "Blackmoor", "Sale Lane", "Tyldesley Banks"],
+    "landmarks": ["Top Chapel, Market Square", "St George's Church", "Astley Green Colliery Museum", "Tyldesley Cenotaph", "Bridgewater Canal at Astley"],
+    "faqs": [
+      {
+        "q": "We back onto the guided busway. Does that muck actually come off?",
+        "a": "It does. It is mostly road film and brake dust rather than anything baked on, and the brush with purified water lifts it. Houses along that corridor go dull quicker, so a shorter gap between visits generally works out better than letting months of it build up."
+      },
+      {
+        "q": "Are Astley and Mosley Common done on the same morning?",
+        "a": "Astley yes, it is M29 the same as most of Tyldesley and only a couple of minutes along the road. Mosley Common we pick up either on the Wednesday or on the Walkden run, depending how the week falls. Give us the postcode when you ring and we will tell you which day you would land on."
+      },
+      {
+        "q": "Bungalow with a conservatory on Sale Lane. Will you do the roof as well as the sides?",
+        "a": "Conservatory roofs yes, provided we can reach it from the ground and the frame is sound. We will not climb on a conservatory roof and we will not lean a ladder on your guttering to get at one. If it is a lean-to sitting under trees, expect the roof to want doing more often than the windows themselves."
+      }
+    ],
+    "nearby": ["atherton", "leigh", "walkden", "worsley", "westhoughton"]
+  },
+  {
+    "slug": "standish",
+    "name": "Standish",
+    "county": "Greater Manchester",
+    "postcodes": ["WN6", "WN1"],
+    "roundDay": "Alternate Tuesdays",
+    "travel": "Up the A6 past Blackrod or off the M61 and across, roughly half an hour.",
+    "intro": "Standish has grown a fair bit and keeps growing. Alongside the old village round the Market Place there are big estates off Almond Brook Road, Pepper Lane and Rectory Lane, and much of that newer stock is detached with a lot of glass in it. We are over on alternate Tuesdays, usually straight on from the Wigan round.",
+    "housing": "Two different jobs, really. The older village stock is stone and brick, some of it Victorian, narrow openings and deep sills. Along Preston Road and the roads off it there are thirties semis and a great many bungalows. Everything built since the sixties, and there is a lot of it, leans towards detached houses with double garages, gable windows sitting high above the drive, French doors, bi-folds and the occasional rooflight. That upper gable glass over a driveway is the bit nobody can reach themselves, and it is exactly what a water-fed pole was made for.",
+    "local": "The A49 Preston Road carries the traffic through the middle, with the M6 coming off at junction 27 up at Shevington Moor. St Wilfrid's is Grade I listed and the Market Place beside it still has the old cross and the stocks. Ashfield Park is the green space in the middle of the village. Worthington Lakes sit a little way up the Chorley Road and Haigh Woodland Park is over the other side towards Wigan. Boars Head marks the southern end, where Standish starts running into Wigan proper.",
+    "challenge": "New estates cause their own bother. Builders leave mortar splash, plaster dust and the sticky line where protective film has been peeled off, and none of that shifts with washing-up liquid and a sponge. Sites still under construction cover everything nearby every dry week. On top of that, Standish sits high enough to catch the wind coming across from the M6, so road salt and grit get carried in through winter, and the young sappy trees on the newer avenues drop a tacky film through the summer.",
+    "neighbourhoods": ["Standish Lower Ground", "Shevington Moor", "Boars Head", "Almond Brook", "Langtree", "Robin Hill", "Ashfield", "Bradley"],
+    "landmarks": ["St Wilfrid's Church", "Standish Market Place cross and stocks", "Ashfield Park", "Worthington Lakes", "Haigh Woodland Park"],
+    "faqs": [
+      {
+        "q": "We have taken on a new build off Almond Brook Road and the glass is still covered in builders' muck.",
+        "a": "That is normal and it is worth doing properly once. Mortar spots, plaster haze and the glue line left by the protective film need working at rather than rinsing off. We do a first clean that takes longer than a regular visit, then it drops onto the ordinary round after that. Mention it when you ring so we can allow the time."
+      },
+      {
+        "q": "Do you cover Shevington and Standish Lower Ground too?",
+        "a": "Both, yes. They sit in the same WN6 patch and are only a couple of minutes either way from the village, so they go on the same Tuesday. Standish Lower Ground is really a separate community from Standish itself, but as far as the round is concerned it is one run."
+      },
+      {
+        "q": "Can you rinse the solar panels while you are here?",
+        "a": "We can clean panels with the same pole and purified water, no chemicals and nothing abrasive on the surface. Worth saying we work from the ground, so if the array sits high on a steep roof away from the eaves we may not reach the top row. Send a photo and we will tell you straight what we can get to."
+      }
+    ],
+    "nearby": ["wigan", "chorley", "blackrod", "adlington", "horwich"]
+  },
+  {
+    "slug": "chorley",
+    "name": "Chorley",
+    "county": "Lancashire",
+    "postcodes": ["PR6", "PR7"],
+    "roundDay": "Thursdays",
+    "travel": "Twenty-five minutes up the A6 through Blackrod, or off the M61 at junction 8.",
+    "intro": "Chorley is a proper Lancashire town and it sits on our Thursday run. Because it is further out than the Bolton work, we come on a set day rather than whenever we happen to be passing. Most customers prefer that anyway, since they know roughly when to expect the van and when to leave the side gate unbolted.",
+    "housing": "Three or four different eras sit side by side here. Round Weldbank, Cowling and Harpers Lane it is stone and brick terraces from the mill days, some with the front step straight onto the pavement. Park Road and the streets near Astley Park have larger Victorian houses, bay windows, high gables, sash frames that no ladder should ever rest against. Astley Village went up through the seventies and eighties, mostly semis and short closes. Buckshaw, built on the old ordnance factory land, is full of three-storey townhouses with a top floor window nobody in the house can get near.",
+    "local": "Astley Hall sits in its park at the top of the town and the flat iron market still runs on the old market ground. St Laurence's has been there since the 1300s. Behind the town, Healey Nab rises towards the West Pennine Moors, and Yarrow Valley Country Park follows the river down past Birkacre. The A6 splits the town north to south while the M61 clips the eastern edge. You can be walking a hill path fifteen minutes after leaving the shops, which tells you most of what you need to know about the weather.",
+    "challenge": "Chorley catches whatever comes off the West Pennines. Rain sweeps in over Healey Nab and Anglezarke bringing fine moorland grit with it, which settles on glass and then streaks the first time it gets wet again. Mill-town stone holds soot from a century of chimneys and bleeds it back down the pane. Add motorway spray for anyone within earshot of the M61 and the constant traffic film along the A6, and a house that was clean a month ago starts looking dull.",
+    "neighbourhoods": ["Astley Village", "Buckshaw Village", "Euxton", "Whittle-le-Woods", "Clayton-le-Woods", "Gillibrand", "Weldbank", "Cowling", "Harpers Lane", "Heapey"],
+    "landmarks": ["Astley Hall and Astley Park", "St Laurence's Church", "Yarrow Valley Country Park", "Healey Nab", "Chorley flat iron market"],
+    "faqs": [
+      {
+        "q": "Our Buckshaw townhouse has a third floor window above the front door. Can you reach it?",
+        "a": "Yes. The pole handles a third storey from the drive with nothing touching the building. Those Buckshaw houses often have a narrow window over the entrance that is effectively unreachable any other way, and it is usually the dirtiest glass in the house because nothing has been near it since the builders finished."
+      },
+      {
+        "q": "How often does the Chorley round come round?",
+        "a": "We are in Chorley on a set day, and most people here have us monthly, though a few stretch it out over winter and pick back up in spring. Because it is a booked day rather than a passing visit, you will know roughly when we are due. If the weather stops us, we pick the round back up at the next opportunity rather than skipping you altogether."
+      },
+      {
+        "q": "Do you go out to Euxton, Whittle-le-Woods and Clayton-le-Woods?",
+        "a": "All three, on the same Thursday. Euxton and Clayton Brook are five minutes off the main run and Whittle-le-Woods sits right on the A6. Coppull and Eccleston depend on how much is booked in that day, so ring with the postcode and we will tell you where you stand."
+      }
+    ],
+    "nearby": ["adlington", "blackrod", "horwich", "standish", "leyland"]
+  },
+  {
+    "slug": "adlington",
+    "name": "Adlington",
+    "county": "Lancashire",
+    "postcodes": ["PR6", "PR7"],
+    "roundDay": "Thursday mornings",
+    "travel": "Fifteen minutes up the A6, just past Blackrod.",
+    "intro": "Adlington sits on the A6 between Blackrod and Chorley with the moors rising right behind it. It is one of the closer Lancashire stops for us and we call in on Thursday mornings before dropping down into Chorley. The village is small enough that once the hose is out we can work a decent part of it without shifting the van at all.",
+    "housing": "Housing here changes as you climb. Down by the canal and along Chorley Road there are mill terraces and a few converted buildings near the marina. Head up Babylon Lane towards Rivington and it turns to stone cottages, thick walls, small windows, some with leaded panes and stone mullions that trap dirt in the grooves. Between the two sit plenty of sixties and seventies semis, then newer detached off Bolton Road and out towards Anderton with conservatories and larger openings. The stone properties are the ones that benefit most from a brush rather than a cloth.",
+    "local": "The Leeds and Liverpool Canal runs through the village and White Bear Marina, the largest on the whole canal, sits alongside it. St Paul's went up in 1884 and the station on the Manchester to Preston line keeps a good number of people commuting. Behind the houses the ground climbs quickly to Rivington Pike and Anglezarke Reservoir, which is why the light and the weather can change here in the time it takes to do one side of a house. Grimeford Lane runs across the fields towards Blackrod on the Bolton side.",
+    "challenge": "Sitting under the moor edge is the whole story. Wind comes off Rivington and Anglezarke carrying grit and peat dust, and rain arrives sideways often enough that west-facing windows never get a quiet week. The wooded lanes towards Anderton drop leaf mould and sap onto sills. Glass facing north near the canal goes green with algae quicker than it would in town. And the stone sills give up a dust of their own down the pane every time they dry out after a soaking.",
+    "neighbourhoods": ["Babylon Lane", "Anderton", "Heath Charnock", "White Bear", "Grimeford", "Chorley Road", "Bolton Road"],
+    "landmarks": ["White Bear Marina", "St Paul's Church", "Rivington Pike", "Anglezarke Reservoir", "Adlington railway station"],
+    "faqs": [
+      {
+        "q": "We are up Babylon Lane and it is exposed. How long will the windows stay clean?",
+        "a": "Honestly, not as long as they would down by the canal. Up there you take the weather straight off the moor. Most people on the higher lanes settle on a four-weekly clean rather than stretching it out, because the glass still looks respectable at four weeks and looks tired by eight."
+      },
+      {
+        "q": "The cottage has small leaded panes and stone mullions. Is a pole any good on those?",
+        "a": "Better than a cloth, if anything. The brush gets into the leading and the corners of the mullion where dirt collects, and purified water rinses out of the grooves without leaving the white marks you get when tap water dries in stonework. We just work slower and rinse it twice."
+      },
+      {
+        "q": "There are only a couple of houses on our lane out towards Anderton. Is it worth your while?",
+        "a": "Sometimes yes, sometimes no, and we would rather say so up front. One house down a long lane on its own is hard to justify for the miles. Two or three together usually works fine. If you can get a neighbour interested it changes the answer, so it is always worth ringing and asking."
+      }
+    ],
+    "nearby": ["chorley", "blackrod", "horwich", "bolton", "standish"]
+  },
+  {
+    "slug": "leyland",
+    "name": "Leyland",
+    "county": "Lancashire",
+    "postcodes": ["PR25", "PR26"],
+    "roundDay": "Alternate Mondays",
+    "travel": "M61 to junction 8 then up the A6, or straight on the M6, about forty minutes.",
+    "intro": "Leyland is flat, spread out and mostly modern, which makes it quick to work once we are there. It is a long enough run that we do it properly or not at all, so it goes on alternate Mondays paired with the Preston work rather than whenever it suits. That gives us a full day up there instead of half of one, and it keeps the mileage sensible.",
+    "housing": "Much of Leyland went up through the sixties and seventies while the truck works was in full swing, so semis, detached houses and bungalows dominate rather than terraces. Broadfield, Wade Hall and Moss Side are estate housing with standard openings, straightforward work. Turpin Green and the older streets near the centre hold some Victorian and Edwardian stock with taller sashes. Farington and the fringes towards Buckshaw are newer again, bigger glass, French doors, the odd set of bi-folds. Dormer bungalows are common, and those front roof windows are the ones that get missed year after year.",
+    "local": "Worden Park is the centre of gravity for most of the town, with the folly, the maze and what remains of the hall. Leyland Cross and St Andrew's mark the old village core, which is a good deal older than most people expect. The British Commercial Vehicle Museum keeps the Leyland Motors story going and the truck plant is still turning them out down the road. Hough Lane takes the shops, Golden Way and the A582 take the traffic, and junction 28 of the M6 sits over by Farington.",
+    "challenge": "There is very little shelter out here. Leyland sits on the flat between the Ribble and the moors, so wind runs at the houses unbroken and carries farmland dust in from the fields at Midge Hall and Farington Moss, particularly at ploughing and harvest. Junction 28 and the A582 add road film for anything close to them. It is damp ground as well, and low glass on north-facing walls picks up a green bloom over winter that wants brushing off rather than simply rinsing.",
+    "neighbourhoods": ["Broadfield", "Moss Side", "Wade Hall", "Turpin Green", "Farington", "Earnshaw Bridge", "Seven Stars", "Midge Hall", "Golden Hill", "Worden"],
+    "landmarks": ["Worden Park", "British Commercial Vehicle Museum", "St Andrew's Parish Church", "Leyland Cross"],
+    "faqs": [
+      {
+        "q": "We have a dormer bungalow with roof windows at the front. Can they be done from the ground?",
+        "a": "Usually, yes. Dormers sit forward of the roof slope, so the pole gets at them from the drive or the garden. What we cannot do is anything set flat into the roof itself, where the water would run back under the frame. Point them out on the first visit and we will tell you what is reachable and what is not."
+      },
+      {
+        "q": "Is Leyland really on your round, or is it too far out from Bolton?",
+        "a": "It is on the round, on a set day every other week, paired with Preston so the mileage adds up. We would rather tell you that plainly than pretend we are five minutes away. It does mean we cannot nip out for a one-off at short notice, but the regular visits come round reliably enough."
+      },
+      {
+        "q": "New house at Farington and the glass still has builders' mess on it.",
+        "a": "Very common round there. Cement splash, sanding dust off the plasterboard and the glue line where the film was peeled all want longer on the glass than a normal visit. After that it settles into the normal round like any other house. Worth mentioning when you book so we are not trying to squeeze it into a standard slot."
+      }
+    ],
+    "nearby": ["preston", "chorley", "adlington"]
+  },
+  {
+    "slug": "preston",
+    "name": "Preston",
+    "county": "Lancashire",
+    "postcodes": ["PR1", "PR2", "PR5"],
+    "roundDay": "Alternate Mondays",
+    "travel": "Motorway most of the way, M61 onto the M6, three quarters of an hour.",
+    "intro": "Preston is a city and we are realistic about that. We do not cover every street in it. What we do have is a settled run through the residential side, Fulwood, Ashton, Ingol, Cottam and the newer estates out to the north west, along with the terraced streets nearer the middle. Alternate Mondays, same day as Leyland, so it is a full day's work up there.",
+    "housing": "You can read the city's growth off its housing. Red brick terraces with bay fronts fill the streets around Deepdale and Ribbleton, plenty of them with the door onto the pavement. Winckley Square and parts of Ashton have tall Georgian and Victorian frontages with sash windows well above ladder height. Fulwood and Ingol are largely interwar semis. Then comes the north west expansion at Cottam, Cadley and out towards Lightfoot Lane, thousands of newer houses with big sealed units, three-storey plots and rooflights. The old and the new both suit pole work, for different reasons.",
+    "local": "The Harris sits on the Flag Market and the middle of Preston more or less orbits it. Avenham and Miller Park drop down to the Ribble, with the old tram bridge crossing towards Penwortham. Deepdale has had football played on it longer than almost anywhere. Riversway and the docks have turned into housing and offices around the old basin. The A6 runs through north to south, Blackpool Road cuts across, and the M6 and M55 meet just above the city, which is a fair part of why so much building has gone that way.",
+    "challenge": "River and road, mainly. Mist comes up the Ribble valley and sits on the low-lying streets, so glass stays damp and holds whatever is in the air. Blackpool Road, Garstang Road and the A6 lay down a constant traffic film on anything fronting them. Gulls are a genuine nuisance down near the docks and along the riverside. And in the older terraces, north-facing bays shaded by the street turn green in the corners of the frames well before the glass itself starts looking dirty.",
+    "neighbourhoods": ["Fulwood", "Ashton-on-Ribble", "Ingol", "Ribbleton", "Deepdale", "Cottam", "Broughton", "Penwortham", "Lea", "Bamber Bridge"],
+    "landmarks": ["Harris Museum and the Flag Market", "Avenham and Miller Park", "Deepdale", "Winckley Square", "Preston Docks at Riversway"],
+    "faqs": [
+      {
+        "q": "Do you cross the river to Penwortham and Bamber Bridge?",
+        "a": "Both are on the same Monday. Penwortham is straight over the bridge and Bamber Bridge sits handy for the way back down the M6, so they fit the run naturally. Longridge, Garstang and the Fylde side we generally do not reach, so ask with the postcode and you will get a straight answer either way."
+      },
+      {
+        "q": "We are on a terraced street off Deepdale Road with bay windows. Is that worth you coming out for?",
+        "a": "Terraced streets are some of the best work there is, because we can do a dozen houses without moving the van. Bays take a minute longer than a flat elevation since there are three faces plus the top lights, but they are no trouble at all. A few neighbours on the same street makes it better still."
+      },
+      {
+        "q": "The gulls near Riversway make a mess of our windows. Can that be shifted?",
+        "a": "Yes, though dried gull mess is one of the few things that occasionally needs a second pass once it has softened. The brush and purified water lift it. If you are right on the water it is worth a shorter gap between visits, because it bakes hard in the sun and gets stubborn quickly."
+      }
+    ],
+    "nearby": ["leyland", "chorley", "blackburn"]
+  },
+  {
+    "slug": "blackburn",
+    "name": "Blackburn",
+    "county": "Lancashire",
+    "postcodes": ["BB1", "BB2"],
+    "roundDay": "Every other Wednesday",
+    "travel": "Straight up the A666 over the tops past Egerton, half an hour on a good morning.",
+    "intro": "Blackburn is a clean run up the A666 from Bolton, over the tops and down through Darwen. We are there every other Wednesday and we take the whole day over it, working Blackburn through the morning and dropping into Darwen on the way home. It is a big town with a lot of variety in the glass, which keeps the job interesting.",
+    "housing": "The centre is ringed by dense terraced streets, Mill Hill, Audley, Little Harwood and Brookhouse among them, stone or brick, often two up two down with the front window straight on the street. Climb the hillsides and it changes. Beardwood and Billinge have large Victorian villas, sash frames and stone mullions three floors up. Lammack, Pleckgate and Wilpshire are interwar semis with bay fronts. Shadsworth and Roe Lee are postwar estates. Feniscowles and Cherry Tree on the south side add a lot of newer detached. Very little of it is safe ladder work and none of it needs to be.",
+    "local": "Blackburn sits in a bowl with hills on most sides. The cathedral and the market anchor the middle, and Corporation Park climbs the slope above the town in terraces, with its conservatory and lodges. Witton Country Park spreads out to the west and Ewood Park sits down by the river on the Darwen road. The Leeds and Liverpool Canal comes through at Eanam, the M65 skirts the north side, and between them the A677 Preston New Road and the A666 Bolton Road take most of the through traffic.",
+    "challenge": "Sitting in a hollow under the West Pennine Moors means Blackburn holds its weather. Cloud comes over the tops and drops rain carrying moorland grit, and on still days the damp simply sits there. The old sandstone in the town's terraces and mills soaked up soot for a century and still weeps it down the glass after rain. Yew Tree Drive, the M65 and Bolton Road put road film on everything within a street or two. It is not a town where windows keep their edge on their own.",
+    "neighbourhoods": ["Mill Hill", "Livesey", "Feniscowles", "Cherry Tree", "Beardwood", "Lammack", "Wilpshire", "Roe Lee", "Little Harwood", "Shadsworth"],
+    "landmarks": ["Blackburn Cathedral", "Corporation Park", "Witton Country Park", "Ewood Park", "Blackburn Market"],
+    "faqs": [
+      {
+        "q": "How often can you actually get over from Bolton?",
+        "a": "Every other Wednesday. Most customers here run on a four-weekly or eight-weekly cycle, which lines up with that neatly. Being straight about it, we are not local to Blackburn, so we cannot come out the same day for a one-off, but the booked round does come round reliably."
+      },
+      {
+        "q": "Ours is one of the tall three-storey terraces on the hill streets. Can you reach the top?",
+        "a": "Yes. Those hill terraces often have the ground dropping away at the front, so they are effectively four storeys from the pavement, and that is exactly the situation where a ladder is a bad idea. The pole reaches from the flags with nothing resting on your stonework or your sills."
+      },
+      {
+        "q": "Do you get out to Wilpshire, Feniscowles and Cherry Tree, or only the town?",
+        "a": "Those all go on the same Wednesday. Wilpshire is north on the Whalley road, Feniscowles and Cherry Tree sit south towards the M65, and both are a short hop off the main run. Ramsgreave and Mellor we will do when the day allows for the detour."
+      }
+    ],
+    "nearby": ["darwen", "chorley", "bolton", "preston"]
+  },
+  {
+    "slug": "darwen",
+    "name": "Darwen",
+    "county": "Lancashire",
+    "postcodes": ["BB3"],
+    "roundDay": "The same Wednesday as Blackburn, usually the afternoon",
+    "travel": "Up the A666 through Egerton and over the moor edge, twenty-five minutes.",
+    "intro": "Darwen sits in the valley between Bolton and Blackburn with the tower on the hill above it and the A666 running straight through the middle. We do it on the same Wednesday as Blackburn, generally the afternoon on the way back down. It is among the highest and most exposed places we work, and the glass here shows it plainly.",
+    "housing": "Terraced rows stack up both sides of the valley, a lot of them stone, some with the front door opening onto the pavement and steps down to a back yard. The steeper streets mean one end of a row can be a full storey higher than the other, which is a nuisance with ladders and nothing at all with a pole. Whitehall and Bury Fold have the bigger Victorian houses with proper stone mullions and sash frames. Earcroft and Sunnyhurst run to postwar semis. Out at Hoddlesden, Tockholes and Blacksnape you are into moorland cottages with thick walls and small deep-set windows.",
+    "local": "Darwen Tower stands at over twelve hundred feet on the hill west of town, put up for the jubilee and for the moorland access fight that was won here. Sunnyhurst Wood runs up the clough below it. The India Mill chimney, built like an Italian bell tower, is the thing everyone recognises from the valley floor. Bold Venture Park and Whitehall Park give the town its green space. The M65 comes off at junction 4 by Earcroft, and the A666 climbs south out of the valley towards Bolton over the moor.",
+    "challenge": "Nowhere else on the round takes as much punishment. Rain that has been over the moors arrives with grit in it, and on the exposed west-facing streets it drives at the glass rather than falling on it. Winter salt off the A666 gets thrown up onto everything near the road. The stone the town is built from sheds a gritty dust from every sill and lintel as it dries. In the shaded cloughs, north-facing frames go green through the wet months and stay that way unless something brushes them off.",
+    "neighbourhoods": ["Hoddlesden", "Sunnyhurst", "Whitehall", "Earcroft", "Lower Darwen", "Tockholes", "Blacksnape", "Marsh House", "Spring Vale"],
+    "landmarks": ["Darwen Jubilee Tower", "India Mill chimney", "Sunnyhurst Wood", "Bold Venture Park", "Whitehall Park"],
+    "faqs": [
+      {
+        "q": "We are up near Whitehall and it is properly exposed. Is there any point cleaning through winter?",
+        "a": "There is, and winter is when it makes the most difference, because the light is poor and dirty glass makes a room feel worse than it is. Purified water works fine in the cold and we only stop for hard frost or high wind. On that exposed side most people stick to a monthly visit and stay ahead of it."
+      },
+      {
+        "q": "Steep stone terrace, deep sills and mullions. Does a pole get into all that?",
+        "a": "It does. The brush works into the mullion grooves and along the underside of the sill where grit collects, then the purified water rinses it out. That is the part a cloth never quite manages on stone, and it is why stone-built streets look better after a few visits than they ever do after one."
+      },
+      {
+        "q": "There are only a few houses on our lane at Hoddlesden. Will you come out that far?",
+        "a": "Hoddlesden and Tockholes we do, but they work best with a handful of houses rather than one on its own, given the climb and the miles. If it is just you, ring anyway and we will tell you honestly whether it is viable. A neighbour or two often makes all the difference."
+      }
+    ],
+    "nearby": ["blackburn", "bromley-cross", "bolton", "chorley"]
+  },
+  {
+    "slug": "rochdale",
+    "name": "Rochdale",
+    "county": "Greater Manchester",
+    "postcodes": ["OL11", "OL12", "OL16"],
+    "roundDay": "Alternate Fridays",
+    "travel": "Out through Bury on the A58, about forty minutes.",
+    "intro": "Rochdale is the furthest east we go on any regular basis. We run it on alternate Fridays, out through Bury. The town is a mix of stone and brick sitting where three valleys come together, which means plenty of weather and plenty of hills, and both of those end up on somebody's windows sooner or later.",
+    "housing": "Stone terraces dominate the older parts, Spotland, Healey, Wardle and up towards Syke, gritstone fronts with heavy sills and lintels. Castleton and Sudden lean more to red brick. Bury Road and the streets around Broadfield have substantial Victorian houses with tall sash windows and gables. Bamford and Norden are largely interwar and postwar semis with bay fronts and decent gardens. Kirkholt and Belfield are estate housing. The gritstone stock is the interesting part for us, because that stone holds a century of soot and keeps handing it back to the glass underneath.",
+    "local": "The Town Hall is the landmark everyone knows, and St Chad's sits above it at the top of a long flight of steps by the river. Toad Lane still has the Pioneers' shop where the co-operative movement began. Hollingworth Lake is over towards Littleborough and Healey Dell cuts north up the Spodden valley under its viaduct. The Rochdale Canal passes through on its way over the Pennines. The M62 runs south of the town with junctions 20 and 21 either side, and the A627(M) drops away towards Oldham.",
+    "challenge": "Three valleys means wind funnels through here off the Pennines with gritstone dust in it. The moors above Wardle and Norden shed grit every time it rains hard. Old stone in Rochdale holds mill soot much as it does in Bolton and Darwen, and it leaches out down the glass afterwards. Anything within reach of the M62 or the A627(M) collects motorway film quickly. In the wooded cloughs, moss and algae settle on frames and sills and stay put unless they are brushed.",
+    "neighbourhoods": ["Norden", "Bamford", "Castleton", "Spotland", "Healey", "Wardle", "Milnrow", "Smallbridge", "Sudden", "Kirkholt"],
+    "landmarks": ["Rochdale Town Hall", "Rochdale Pioneers Museum, Toad Lane", "Hollingworth Lake", "Healey Dell viaduct", "St Chad's Church"],
+    "faqs": [
+      {
+        "q": "Rochdale is a fair way from Bolton. Do you genuinely cover it?",
+        "a": "We do, on alternate Fridays, out past Bury. It is a booked round rather than a passing visit, so we cannot come at short notice, and it works best where there are a few houses fairly close together. If you are on your own on a quiet street, ring and ask and we will be honest about whether it is worth doing."
+      },
+      {
+        "q": "Our house is gritstone with deep sills that always look grubby. Can that be sorted?",
+        "a": "The stone itself we do not clean, but the glass, the frames and the face of the sill all get brushed and rinsed, and that is where most of the grubby look comes from. Gritstone sheds dust as it dries and it settles on the pane below, so on stone houses the difference between a proper clean and a wipe-over is obvious."
+      },
+      {
+        "q": "Do you get up to Norden, Bamford and the Wardle side?",
+        "a": "All on the same Friday. Norden and Bamford are a couple of minutes off the A680, and Wardle and Smallbridge are the other side of town but still a reasonable hop. Milnrow and Littleborough are a maybe rather than a yes, so ask and we will give you a straight answer."
+      }
+    ],
+    "nearby": ["bury", "ramsbottom", "radcliffe", "whitefield"]
+  }
+]
