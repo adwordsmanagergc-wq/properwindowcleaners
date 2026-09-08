@@ -109,7 +109,7 @@ export async function POST(request: Request) {
 
   const apiKey = process.env.RESEND_API_KEY;
   const to = process.env.BOOKINGS_TO || site.email;
-  const from = process.env.BOOKINGS_FROM || 'Proper Window Cleaners <bookings@properwindowcleaning.co.uk>';
+  const from = process.env.BOOKINGS_FROM || 'Proper Window Cleaners <bookings@properwindowcleaners.co.uk>';
 
   if (!apiKey) {
     // Nothing configured yet — be honest so the form shows the WhatsApp/email fallback
