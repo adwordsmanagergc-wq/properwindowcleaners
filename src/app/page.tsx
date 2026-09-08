@@ -72,7 +72,7 @@ export default function HomePage() {
 
             <h1 className="mt-5 font-[family-name:var(--font-display)] text-[38px] font-extrabold leading-[1.08] tracking-tight text-navy-950 sm:text-[52px]">
               Window cleaners who
-              <span className="text-navy-600"> actually turn up</span>
+              <span className="text-navy-600"> do a proper job</span>
             </h1>
 
             <p className="mt-5 max-w-xl text-[18px] leading-[1.65] text-navy-900/75">
