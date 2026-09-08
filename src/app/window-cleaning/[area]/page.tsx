@@ -126,7 +126,9 @@ export default function AreaPage({ params }: { params: { area: string } }) {
       {/* LOCAL CONTENT */}
       <section className="container-page py-14 sm:py-16">
         <div className="grid gap-12 lg:grid-cols-[minmax(0,1fr)_320px] lg:gap-16">
-          <div className="max-w-2xl">
+          {/* min-w-0: a grid item defaults to min-width:auto, so without this the
+              wide price table below refuses to shrink and widens the whole page. */}
+          <div className="min-w-0 max-w-2xl">
             <h2 className="font-[family-name:var(--font-display)] text-2xl font-extrabold text-navy-950 sm:text-3xl">
               The houses we clean in {area.name}
             </h2>

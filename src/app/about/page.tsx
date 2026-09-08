@@ -176,15 +176,17 @@ export default function AboutPage() {
       </section>
 
       <section className="container-page py-14 sm:py-20">
-        <div className="grid gap-8 rounded-3xl border border-navy-100 p-8 sm:p-10 lg:grid-cols-3">
-          <div>
+        {/* min-w-0 on each item: grid items default to min-width:auto, so the long
+            email address below would otherwise force the column wider than a phone. */}
+        <div className="grid gap-8 rounded-3xl border border-navy-100 p-6 sm:p-10 lg:grid-cols-3">
+          <div className="min-w-0">
             <PinIcon width={22} height={22} className="text-sky-600" />
             <h3 className="mt-3 text-[17px] font-bold text-navy-950">Based in {site.baseTown}</h3>
             <p className="mt-2 text-[15px] leading-relaxed text-navy-900/70">
               {site.baseCounty}, working across {site.region}. No shop, no office — the van is the business.
             </p>
           </div>
-          <div>
+          <div className="min-w-0">
             <CheckIcon width={22} height={22} className="text-sky-600" />
             <h3 className="mt-3 text-[17px] font-bold text-navy-950">Fully insured</h3>
             <p className="mt-2 text-[15px] leading-relaxed text-navy-900/70">
@@ -192,7 +194,7 @@ export default function AboutPage() {
               over if a managing agent needs it.
             </p>
           </div>
-          <div>
+          <div className="min-w-0">
             <PhoneIcon width={22} height={22} className="text-sky-600" />
             <h3 className="mt-3 text-[17px] font-bold text-navy-950">One number</h3>
             <p className="mt-2 text-[15px] leading-relaxed text-navy-900/70">

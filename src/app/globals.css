@@ -15,6 +15,9 @@ html {
 
 body {
   @apply bg-white text-navy-950 antialiased;
+  /* The booking email is a 35-character unbreakable word; without this it
+     overflows prose and forces grid items wide on narrow phones. */
+  overflow-wrap: break-word;
 }
 
 @layer components {
