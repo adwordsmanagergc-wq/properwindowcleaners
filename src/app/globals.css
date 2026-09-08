@@ -73,3 +73,109 @@ body {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }
 }
+
+/* ── Squeegee intro ────────────────────────────────────────────────────────
+   Three passes across the glass, one band at a time, clearing soap to reveal
+   the site underneath. Decorative only: the markup is rendered server-side so
+   the soap is on screen from the first paint, the passes are pure CSS, and the
+   overlay ends up fully transparent and click-through even if JS never runs.
+
+   The soap edge (clip-path) and the blade (left) are both main-thread
+   properties on purpose. Animating the blade with a transform instead puts it
+   on the compositor, where it races ahead of the clip during hydration and the
+   blade visibly detaches from the edge it is meant to be clearing. */
+
+.wc-intro {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.wc-band {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 33.4%;
+  overflow: hidden;
+}
+.wc-band--1 { top: 0; }
+.wc-band--2 { top: 33.3%; }
+.wc-band--3 { top: 66.6%; }
+
+/* The soap film, wiped back from the leading edge. */
+.wc-foam {
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(120% 90% at 20% 0%, rgba(255, 255, 255, 0.97), rgba(224, 240, 254, 0.93) 55%, rgba(185, 226, 254, 0.92) 100%);
+  animation: wc-clear 0.55s cubic-bezier(0.45, 0.05, 0.3, 1) both;
+}
+
+/* The blade. margin-left pulls its trailing edge onto the soap edge. */
+.wc-squeegee {
+  position: absolute;
+  top: -2%;
+  height: 104%;
+  width: 28px;
+  left: 0;
+  margin-left: -28px;
+  border-radius: 3px;
+  background: linear-gradient(90deg, rgba(15, 32, 56, 0) 0%, #173154 22%, #1d4e8f 55%, #0f2038 78%, rgba(15, 32, 56, 0) 100%);
+  box-shadow: 0 0 22px rgba(12, 155, 234, 0.45);
+  animation:
+    wc-blade 0.55s cubic-bezier(0.45, 0.05, 0.3, 1) both,
+    wc-blade-fade 0.55s linear both;
+}
+
+@keyframes wc-clear {
+  from { clip-path: inset(0 0 0 0); }
+  to   { clip-path: inset(0 0 0 100%); }
+}
+@keyframes wc-blade {
+  from { left: 0; }
+  to   { left: 100%; }
+}
+@keyframes wc-blade-fade {
+  0%, 86% { opacity: 1; }
+  100%    { opacity: 0; }
+}
+
+/* Band 2 comes back the other way, so its soap and blade mirror. */
+.wc-band--2 .wc-foam { animation-name: wc-clear-rtl; }
+.wc-band--2 .wc-squeegee {
+  margin-left: 0;
+  animation-name: wc-blade-rtl, wc-blade-fade;
+}
+@keyframes wc-clear-rtl {
+  from { clip-path: inset(0 0 0 0); }
+  to   { clip-path: inset(0 100% 0 0); }
+}
+@keyframes wc-blade-rtl {
+  from { left: 100%; }
+  to   { left: 0; }
+}
+
+/* Each band waits its turn, with a touch of overlap so it reads as one sweep. */
+.wc-band--2 .wc-foam,
+.wc-band--2 .wc-squeegee { animation-delay: 0.45s; }
+.wc-band--3 .wc-foam,
+.wc-band--3 .wc-squeegee { animation-delay: 0.9s; }
+
+.wc-bubble {
+  position: absolute;
+  border-radius: 9999px;
+  background: radial-gradient(circle at 32% 28%, rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.15) 46%, rgba(124, 205, 253, 0.42) 78%, rgba(12, 155, 234, 0.18));
+  box-shadow: inset 0 0 8px rgba(255, 255, 255, 0.85);
+  animation: wc-bob 1.6s ease-in-out infinite;
+}
+
+@keyframes wc-bob {
+  0%, 100% { transform: translateY(0) scale(1); opacity: 0.85; }
+  50%      { transform: translateY(-7px) scale(1.06); opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wc-intro { display: none; }
+}

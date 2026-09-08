@@ -5,6 +5,7 @@ import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import JsonLd from '@/components/JsonLd';
 import StickyCta from '@/components/StickyCta';
+import WindowWipeIntro from '@/components/WindowWipeIntro';
 import { localBusinessSchema } from '@/lib/schema';
 import { site } from '@/lib/site';
 import './globals.css';
@@ -56,6 +57,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en-GB">
       <body className="flex min-h-screen flex-col">
         <JsonLd data={localBusinessSchema()} />
+        <WindowWipeIntro />
         <a
           href="#main"
           className="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-4 focus:z-50 focus:rounded-lg focus:bg-navy-600 focus:px-4 focus:py-2 focus:text-white"
