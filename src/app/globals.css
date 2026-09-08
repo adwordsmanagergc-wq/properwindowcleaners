@@ -110,7 +110,7 @@ body {
   inset: 0;
   background:
     radial-gradient(120% 90% at 20% 0%, rgba(255, 255, 255, 0.97), rgba(224, 240, 254, 0.93) 55%, rgba(185, 226, 254, 0.92) 100%);
-  animation: wc-clear 0.55s cubic-bezier(0.45, 0.05, 0.3, 1) both;
+  animation: wc-clear 0.9s cubic-bezier(0.45, 0.05, 0.3, 1) both;
 }
 
 /* The blade. margin-left pulls its trailing edge onto the soap edge. */
@@ -125,8 +125,8 @@ body {
   background: linear-gradient(90deg, rgba(15, 32, 56, 0) 0%, #173154 22%, #1d4e8f 55%, #0f2038 78%, rgba(15, 32, 56, 0) 100%);
   box-shadow: 0 0 22px rgba(12, 155, 234, 0.45);
   animation:
-    wc-blade 0.55s cubic-bezier(0.45, 0.05, 0.3, 1) both,
-    wc-blade-fade 0.55s linear both;
+    wc-blade 0.9s cubic-bezier(0.45, 0.05, 0.3, 1) both,
+    wc-blade-fade 0.9s linear both;
 }
 
 @keyframes wc-clear {
@@ -159,9 +159,9 @@ body {
 
 /* Each band waits its turn, with a touch of overlap so it reads as one sweep. */
 .wc-band--2 .wc-foam,
-.wc-band--2 .wc-squeegee { animation-delay: 0.45s; }
+.wc-band--2 .wc-squeegee { animation-delay: 0.75s; }
 .wc-band--3 .wc-foam,
-.wc-band--3 .wc-squeegee { animation-delay: 0.9s; }
+.wc-band--3 .wc-squeegee { animation-delay: 1.5s; }
 
 .wc-bubble {
   position: absolute;
@@ -178,4 +178,31 @@ body {
 
 @media (prefers-reduced-motion: reduce) {
   .wc-intro { display: none; }
+}
+
+/* ── Floating WhatsApp widget ──────────────────────────────────────────────
+   Held back until the squeegee intro has finished so the two do not compete
+   for attention on load. Hidden rather than merely transparent while it
+   waits, so there is nothing invisible to click in the corner. */
+
+.wa-dock {
+  animation: wa-dock-in 0.4s ease-out 2.9s both;
+}
+.wa-panel {
+  transform-origin: bottom right;
+  animation: wa-panel-in 0.18s ease-out both;
+}
+
+@keyframes wa-dock-in {
+  from { opacity: 0; visibility: hidden; transform: translateY(12px) scale(0.9); }
+  to   { opacity: 1; visibility: visible; transform: none; }
+}
+@keyframes wa-panel-in {
+  from { opacity: 0; transform: translateY(8px) scale(0.96); }
+  to   { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wa-dock,
+  .wa-panel { animation: none; }
 }

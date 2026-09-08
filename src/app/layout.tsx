@@ -5,6 +5,7 @@ import Footer from '@/components/Footer';
 import Header from '@/components/Header';
 import JsonLd from '@/components/JsonLd';
 import StickyCta from '@/components/StickyCta';
+import WhatsAppChat from '@/components/WhatsAppChat';
 import WindowWipeIntro from '@/components/WindowWipeIntro';
 import { localBusinessSchema } from '@/lib/schema';
 import { site } from '@/lib/site';
@@ -68,6 +69,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main id="main" className="flex-1 pb-20 sm:pb-0">{children}</main>
         <Footer />
         <StickyCta />
+        <WhatsAppChat />
       </body>
     </html>
   );
