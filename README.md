@@ -33,7 +33,7 @@ Copy `.env.example` to `.env.local` for local work, and add the same keys in Ver
 | Variable | What it does |
 | --- | --- |
 | `RESEND_API_KEY` | API key from [resend.com](https://resend.com). **Until this is set, the booking form deliberately fails over to WhatsApp / email / phone rather than silently swallowing bookings.** |
-| `BOOKINGS_TO` | Where booking emails land. Defaults to `bookings@properwindowcleaning.co.uk`. |
+| `BOOKINGS_TO` | Where booking emails land. Defaults to `bookings@properwindowcleaners.co.uk`. |
 | `BOOKINGS_FROM` | Sender address. Must be on a domain verified in Resend. |
 
 To switch bookings on: create a Resend account, verify `properwindowcleaning.co.uk`
