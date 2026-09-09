@@ -27,7 +27,7 @@ export default function BookPage() {
             </h1>
             <p className="mt-4 text-[17.5px] leading-[1.65] text-navy-900/75">
               Four short steps. The price updates as you go, so there are no surprises and nothing to
-              wait for. Lewis confirms the day by text, usually the same working day.
+              wait for. We confirm the day by text, usually the same working day.
             </p>
             <ul className="mt-6 flex flex-wrap gap-x-6 gap-y-2">
               {['No card details', 'No contract', 'Pay after the clean', 'Cancel with a text'].map((t) => (
@@ -48,7 +48,7 @@ export default function BookPage() {
 
       <section className="container-page pb-16">
         <p className="mx-auto max-w-3xl text-center text-[14px] leading-relaxed text-navy-900/60">
-          Prefer to talk it through? Ring {site.owner.split(' ')[0]} on{' '}
+          Prefer to talk it through? Ring us on{' '}
           <a className="font-semibold text-navy-700 underline" href={site.phoneHref}>{site.phone}</a> or email{' '}
           <a className="font-semibold text-navy-700 underline" href={site.emailHref}>{site.email}</a>.
           We answer between jobs, so if it rings out leave a message and you will get a call back.

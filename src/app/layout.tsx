@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   description:
     'Family-run window cleaners covering Bolton and the North West. Instant online price, book weekly, fortnightly or monthly. Frames and sills included. Call 07405 538 996.',
   applicationName: site.name,
-  authors: [{ name: site.owner }],
+  authors: [{ name: site.name }],
   keywords: [
     'window cleaners Bolton',
     'window cleaning North West',
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
     title: 'Proper Window Cleaners | Bolton & North West',
     description:
       'Get an instant price for your windows and book a weekly, fortnightly or monthly clean. Family-run, Bolton based, 20 years on the glass.',
-    images: [{ url: '/hero.jpg', width: 1264, height: 848, alt: `${site.owner} of ${site.name}` }],
+    images: [{ url: '/hero.jpg', width: 1264, height: 848, alt: `The ${site.name} van outside Bolton Town Hall` }],
   },
   twitter: { card: 'summary_large_image' },
   icons: {

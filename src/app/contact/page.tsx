@@ -9,7 +9,7 @@ import { site } from '@/lib/site';
 
 export const metadata: Metadata = {
   title: { absolute: 'Contact | Proper Window Cleaners, Bolton' },
-  description: `Ring Lewis on ${site.phone}, message on WhatsApp or email ${site.email}. Window cleaning across Bolton and the North West.`,
+  description: `Ring us on ${site.phone}, message on WhatsApp or email ${site.email}. Window cleaning across Bolton and the North West.`,
   alternates: { canonical: '/contact' },
 };
 
@@ -23,10 +23,10 @@ export default function ContactPage() {
           <div className="max-w-2xl">
             <p className="eyebrow">Contact</p>
             <h1 className="mt-3 font-[family-name:var(--font-display)] text-[34px] font-extrabold leading-[1.12] tracking-tight text-navy-950 sm:text-[48px]">
-              Get hold of Lewis
+              Get hold of us
             </h1>
             <p className="mt-4 text-[17.5px] leading-[1.65] text-navy-900/75">
-              One number, one inbox, one bloke. If it rings out he is up a pole somewhere — leave a
+              One number, one inbox. If it rings out we are up a pole somewhere, so leave a
               message or send a text and you will get a reply the same day.
             </p>
           </div>

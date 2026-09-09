@@ -17,7 +17,6 @@ export function localBusinessSchema() {
     image: `${site.url}/hero.jpg`,
     logo: `${site.url}/logo.png`,
     priceRange: '££',
-    founder: { '@type': 'Person', name: site.owner },
     address: {
       '@type': 'PostalAddress',
       addressLocality: site.baseTown,

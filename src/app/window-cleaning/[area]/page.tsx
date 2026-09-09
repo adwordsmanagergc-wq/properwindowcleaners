@@ -216,16 +216,16 @@ export default function AreaPage({ params }: { params: { area: string } }) {
             <div className="overflow-hidden rounded-2xl border border-navy-100">
               <Image
                 src="/hero-sm.jpg"
-                alt={`${site.owner} of ${site.name}, who covers ${area.name}`}
+                alt={`The ${site.name} van, which covers ${area.name}`}
                 width={632}
                 height={424}
                 sizes="320px"
                 className="h-auto w-full"
               />
               <div className="p-5">
-                <p className="text-[15px] font-bold text-navy-950">{site.owner}</p>
+                <p className="text-[15px] font-bold text-navy-950">{site.name}</p>
                 <p className="mt-1 text-[14px] leading-relaxed text-navy-900/70">
-                  Bolton born and bred, {site.yearsExperience} years on the glass. He answers the phone himself.
+                  Bolton born and bred, {site.yearsExperience} years on the glass.
                 </p>
                 <div className="mt-4 flex flex-col gap-2">
                   <a href={site.phoneHref} className="btn-primary !py-2.5 !text-sm"><PhoneIcon width={16} height={16} /> {site.phone}</a>
@@ -282,7 +282,7 @@ export default function AreaPage({ params }: { params: { area: string } }) {
 
       <CtaBand
         title={`Get a price for your ${area.name} home`}
-        body={`Windows, storeys, how often — thirty seconds and you have got the figure. Lewis then texts back to confirm which ${area.roundDay.toLowerCase().includes('day') ? 'day' : 'week'} suits.`}
+        body={`Windows, storeys, how often — thirty seconds and you have got the figure. We then text back to confirm which ${area.roundDay.toLowerCase().includes('day') ? 'day' : 'week'} suits.`}
         href={`/book?area=${encodeURIComponent(area.name)}`}
       />
       <div className="pb-16" />

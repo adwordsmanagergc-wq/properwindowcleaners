@@ -6,14 +6,14 @@ import { CloseIcon, WhatsAppIcon } from './Icons';
 
 /**
  * Floating WhatsApp button with a small chat panel. The panel is a launcher,
- * not a real inbox — every path out of it opens WhatsApp with the message
- * already written, so Lewis gets context instead of a bare "hi".
+ * not a real inbox. Every path out of it opens WhatsApp with the message
+ * already written, so we get context instead of a bare "hi".
  */
 
 const QUICK_MESSAGES = [
-  'Hi Lewis, can I get a price for my house please?',
-  'Hi Lewis, when are you next cleaning in my area?',
-  'Hi Lewis, can I book a one-off clean?',
+  'Hi, can I get a price for my house please?',
+  'Hi, when are you next cleaning in my area?',
+  'Hi, can I book a one-off clean?',
 ];
 
 const chatHref = (message: string) => `${site.whatsappHref}?text=${encodeURIComponent(message)}`;
@@ -63,7 +63,7 @@ export default function WhatsAppChat() {
               <WhatsAppIcon width={19} height={19} />
             </span>
             <span className="min-w-0 flex-1">
-              <span className="block text-[14.5px] font-semibold leading-tight">{site.owner}</span>
+              <span className="block text-[14.5px] font-semibold leading-tight">{site.name}</span>
               <span className="block text-[12.5px] text-white/75">Replies between jobs</span>
             </span>
             <button
@@ -78,8 +78,8 @@ export default function WhatsAppChat() {
 
           <div className="bg-[#ece5dd] px-4 py-4">
             <p className="relative max-w-[85%] rounded-xl rounded-tl-sm bg-white px-3.5 py-2.5 text-[14px] leading-[1.5] text-navy-900 shadow-sm">
-              Hiya, it&rsquo;s {site.owner.split(' ')[0]}. Send me a message and I&rsquo;ll get back to you
-              between jobs. What do you need?
+              Hiya. Send us a message and we will get back to you between jobs. What do you
+              need?
             </p>
           </div>
 
@@ -93,7 +93,7 @@ export default function WhatsAppChat() {
                 onClick={() => setOpen(false)}
                 className="block rounded-xl border border-navy-200 px-3.5 py-2.5 text-[13.5px] font-medium text-navy-800 transition-colors hover:border-navy-300 hover:bg-navy-50"
               >
-                {message.replace('Hi Lewis, ', '').replace(/^./, (c) => c.toUpperCase())}
+                {message.replace('Hi, ', '').replace(/^./, (c) => c.toUpperCase())}
               </a>
             ))}
             <a

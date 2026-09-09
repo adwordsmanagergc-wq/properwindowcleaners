@@ -52,7 +52,7 @@ const HOME_FAQS = [
 
 const STEPS = [
   { icon: CalendarIcon, title: 'Price it yourself', body: 'Slide the number of windows, pick single or double storey, choose how often. The price updates as you go — no waiting on a callback.' },
-  { icon: PhoneIcon, title: 'Lewis confirms the day', body: 'You get a text or a call back, usually the same working day, with the day we will be on your street and a rough time.' },
+  { icon: PhoneIcon, title: 'We confirm the day', body: 'You get a text or a call back, usually the same working day, with the day we will be on your street and a rough time.' },
   { icon: DropletIcon, title: 'We turn up and clean', body: 'Pole and purified water, ground level, front and back. You get a text when it is done and pay by transfer or cash.' },
 ];
 
@@ -109,7 +109,7 @@ export default function HomePage() {
             <div className="overflow-hidden rounded-3xl shadow-[0_24px_70px_-30px_rgba(23,49,84,.55)]">
               <Image
                 src="/hero.jpg"
-                alt={`${site.owner}, owner of ${site.name}, with the company van outside Bolton Town Hall`}
+                alt={`The ${site.name} van outside Bolton Town Hall`}
                 width={1264}
                 height={848}
                 priority
@@ -132,7 +132,7 @@ export default function HomePage() {
       <section className="border-y border-navy-100 bg-navy-50/40">
         <div className="container-page grid gap-6 py-8 sm:grid-cols-2 lg:grid-cols-4">
           {[
-            { icon: StarIcon, title: `${site.yearsExperience} years' experience`, body: 'Lewis has been cleaning windows round here since he left school.' },
+            { icon: StarIcon, title: `${site.yearsExperience} years' experience`, body: 'We have been cleaning windows round these streets for twenty years.' },
             { icon: ShieldIcon, title: 'Fully insured', body: 'Public liability cover in place on every job, domestic and commercial.' },
             { icon: PinIcon, title: `${areas.length} towns covered`, body: 'From Bolton and Bury out to Preston, Blackburn and Manchester.' },
             { icon: ClockIcon, title: 'Text before we come', body: 'You always know which day we are on your street. No surprise knocks.' },
@@ -289,7 +289,7 @@ export default function HomePage() {
           <div className="overflow-hidden rounded-3xl shadow-[0_20px_60px_-30px_rgba(23,49,84,.5)]">
             <Image
               src="/hero.jpg"
-              alt={`${site.owner} outside Bolton Town Hall with the ${site.name} van`}
+              alt={`The ${site.name} van outside Bolton Town Hall`}
               width={1264}
               height={848}
               sizes="(max-width: 1024px) 100vw, 560px"
@@ -297,21 +297,21 @@ export default function HomePage() {
             />
           </div>
           <div>
-            <p className="eyebrow">The bloke with the pole</p>
+            <p className="eyebrow">Who you are booking</p>
             <h2 className="mt-2 font-[family-name:var(--font-display)] text-3xl font-extrabold text-navy-950 sm:text-4xl">
-              Meet Lewis Mac
+              A local round, not a call centre
             </h2>
             <p className="mt-4 text-[17px] leading-[1.7] text-navy-900/75">
-              Born and bred in Bolton, twenty years on the glass, and a family man who would rather
-              keep a customer for ten years than squeeze an extra fiver out of them once. When you
-              ring this number, Lewis answers it.
+              Bolton born and bred, twenty years on the glass, and we would rather keep a customer
+              for ten years than squeeze an extra fiver out of them once. Ring the number and you get
+              somebody who knows the round.
             </p>
             <p className="mt-4 text-[17px] leading-[1.7] text-navy-900/75">
-              That is the whole business, really. Turn up when you said you would, do the job properly,
-              and charge what you quoted.
+              That is the whole business, really. Come when we said we would, do the job properly,
+              and charge what we quoted.
             </p>
             <Link href="/about" className="btn-ghost mt-7">
-              Read Lewis&rsquo;s story <ArrowIcon width={17} height={17} />
+              Read our story <ArrowIcon width={17} height={17} />
             </Link>
           </div>
         </div>

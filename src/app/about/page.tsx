@@ -9,16 +9,16 @@ import { breadcrumbSchema } from '@/lib/schema';
 import { site } from '@/lib/site';
 
 export const metadata: Metadata = {
-  title: { absolute: 'About Lewis Mac, Bolton Window Cleaner | Proper Window Cleaners' },
+  title: { absolute: 'About Us, Bolton Window Cleaners | Proper Window Cleaners' },
   description:
-    'Run by Lewis Mac, born and bred in Bolton with 20 years cleaning windows across the North West. Family-run, fully insured, and no contracts.',
+    'Born and bred in Bolton with 20 years cleaning windows across the North West. Family-run, fully insured, and no contracts.',
   alternates: { canonical: '/about' },
 };
 
 const VALUES = [
   { title: 'We turn up', body: 'If we said Tuesday, it is Tuesday. If the weather beats us, you get a text the same morning telling you when we are coming instead. Nobody should have to wonder whether their window cleaner still exists.' },
   { title: 'The price is the price', body: 'What the calculator says is what you pay. No first-clean shock, no quiet increase after six months, no charge for frames and sills that should have been in the price all along.' },
-  { title: 'One bloke you can ring', body: 'There is no call centre and no ticket number. The mobile on the van is the mobile Lewis carries. If something is not right, you tell him and he comes back and sorts it.' },
+  { title: 'One number you can ring', body: 'There is no call centre and no ticket number. The mobile on the van is the mobile we answer. If something is not right, you tell us and we come back and sort it.' },
   { title: 'Look after the house, not just the glass', body: 'No ladders dragged up against your gutters, no boots through the borders, gates shut behind us every time. If your dog is out in the yard, we wait.' },
 ];
 
@@ -28,15 +28,6 @@ export default function AboutPage() {
       <JsonLd
         data={[
           breadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'About', url: '/about' }]),
-          {
-            '@context': 'https://schema.org',
-            '@type': 'Person',
-            name: site.owner,
-            jobTitle: 'Window cleaner and owner',
-            worksFor: { '@type': 'Organization', name: site.name },
-            homeLocation: { '@type': 'Place', name: `${site.baseTown}, ${site.baseCounty}` },
-            image: `${site.url}/hero.jpg`,
-          },
         ]}
       />
 
@@ -48,9 +39,9 @@ export default function AboutPage() {
               Bolton born, Bolton based, twenty years on the glass
             </h1>
             <p className="mt-5 text-[18px] leading-[1.65] text-navy-900/75">
-              Proper Window Cleaners is Lewis Mac. A family man, born and bred in Bolton, who has been
-              cleaning windows round these streets since he was a teenager and has no plans to do
-              anything else.
+              Proper Window Cleaners is a family-run round, born and bred in Bolton. We have been
+              cleaning windows round these streets for twenty years and have no plans to do anything
+              else.
             </p>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">
               <Link href="/book" className="btn-primary !px-7 !py-3.5">
@@ -65,7 +56,7 @@ export default function AboutPage() {
           <div className="overflow-hidden rounded-3xl shadow-[0_24px_70px_-30px_rgba(23,49,84,.55)]">
             <Image
               src="/hero.jpg"
-              alt={`${site.owner}, owner of ${site.name}, stood with his van outside Bolton Town Hall`}
+              alt={`The ${site.name} van outside Bolton Town Hall`}
               width={1264}
               height={848}
               priority
@@ -82,19 +73,19 @@ export default function AboutPage() {
             How it started
           </h2>
           <p className="mt-5">
-            Lewis picked up his first bucket at sixteen, helping out on a round that covered the
-            terraced streets off Chorley Old Road. It was ladders and a squeegee back then, freezing
-            hands in January, and a book of names and house numbers kept in the glovebox. He learned
-            the trade the way most window cleaners of his generation did: badly paid, outdoors, and
-            entirely by doing it.
+            The first bucket got picked up at sixteen, on a round that covered the terraced streets
+            off Chorley Old Road. It was ladders and a squeegee back then, freezing hands in January,
+            and a book of names and house numbers kept in the glovebox. The trade got learned the way
+            it did for most window cleaners of that generation: badly paid, outdoors, and entirely by
+            doing it.
           </p>
           <p>
             Twenty years on, the ladders have gone. The van carries a tank of purified water and a
             carbon pole that reaches the top of most houses from the middle of the drive, which is
-            safer for him and a lot less nerve-racking for anyone watching their conservatory roof.
+            safer for us and a lot less nerve-racking for anyone watching their conservatory roof.
             The book in the glovebox has gone too, replaced by the booking system on this website.
-            What has not changed is the round itself. A lot of the houses Lewis cleaned in his
-            twenties are still on it.
+            What has not changed is the round itself. A lot of the houses cleaned twenty years ago
+            are still on it.
           </p>
 
           <h2 className="mt-12 font-[family-name:var(--font-display)] text-3xl font-extrabold text-navy-950">
@@ -107,7 +98,7 @@ export default function AboutPage() {
             will tell you what it costs before they have been out to look at the house.
           </p>
           <p>
-            That is the whole reason this business exists in the shape it does. Lewis wanted a window
+            That is the whole reason this business exists in the shape it does. We wanted a window
             cleaning round where you can find out the price yourself, at eleven o&rsquo;clock at night
             if that is when you remember, pick the week you want to start, and get a text back
             confirming it. The trade has been run on scraps of paper and missed calls for long enough.
@@ -122,10 +113,9 @@ export default function AboutPage() {
             The family bit
           </h2>
           <p className="mt-5">
-            Lewis is a dad first and a window cleaner second, and the round is built around that. The
-            van is out early so he is back for teatime and the school run gets done. Saturdays are for
-            catching up on the houses that rain lost during the week, and Sundays the phone goes on the
-            side.
+            This is a family business, and the round is built around that. The van is out early so
+            everyone is back for teatime and the school run gets done. Saturdays are for catching up
+            on the houses that rain lost during the week, and Sundays the phone goes on the side.
           </p>
           <p>
             It also shapes how the work gets priced. A family business does not need to squeeze every
@@ -199,8 +189,8 @@ export default function AboutPage() {
             <h3 className="mt-3 text-[17px] font-bold text-navy-950">One number</h3>
             <p className="mt-2 text-[15px] leading-relaxed text-navy-900/70">
               <a className="font-semibold text-navy-700 underline" href={site.phoneHref}>{site.phone}</a> rings
-              Lewis. <a className="font-semibold text-navy-700 underline" href={site.emailHref}>{site.email}</a> reaches
-              the same person.
+              us. <a className="font-semibold text-navy-700 underline" href={site.emailHref}>{site.email}</a> reaches
+              the same place.
             </p>
           </div>
         </div>
@@ -208,7 +198,7 @@ export default function AboutPage() {
 
       <CtaBand
         title="Fancy having it off your list?"
-        body="Price your house on the calculator, pick a start date, and Lewis will text you back to confirm the day."
+        body="Price your house on the calculator, pick a start date, and we will text you back to confirm the day."
       />
       <div className="pb-16" />
     </>

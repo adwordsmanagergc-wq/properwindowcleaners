@@ -22,7 +22,7 @@ export default function Footer() {
             />
             <p className="mt-4 max-w-xs text-[15px] leading-relaxed">
               Family-run window cleaners based in {site.baseTown}, working across {site.region}.
-              Run by {site.owner}, {site.yearsExperience} years on the glass.
+              Family-run, {site.yearsExperience} years on the glass.
             </p>
             <div className="mt-5 flex flex-wrap gap-2">
               <a href={site.phoneHref} className="btn-white !px-4 !py-2 !text-sm">
@@ -50,7 +50,7 @@ export default function Footer() {
           <div>
             <h2 className="text-sm font-semibold uppercase tracking-wider text-white">Company</h2>
             <ul className="mt-4 space-y-2.5 text-[15px]">
-              <li><Link className="hover:text-sky-300" href="/about">About Lewis</Link></li>
+              <li><Link className="hover:text-sky-300" href="/about">About us</Link></li>
               <li><Link className="hover:text-sky-300" href="/prices">Prices &amp; quote calculator</Link></li>
               <li><Link className="hover:text-sky-300" href="/book">Book a clean</Link></li>
               <li><Link className="hover:text-sky-300" href="/areas">All areas covered</Link></li>

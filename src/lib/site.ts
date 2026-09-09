@@ -1,7 +1,6 @@
 export const site = {
   name: 'Proper Window Cleaning',
   legalName: 'Proper Window Cleaning',
-  owner: 'Lewis Mac',
   tagline: 'Streak-free windows across the North West',
   /** Override per-environment with NEXT_PUBLIC_SITE_URL (used for canonicals, sitemap and schema). */
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.properwindowcleaning.co.uk',

@@ -29,7 +29,7 @@ export default function TermsPage() {
         <h2 className="mt-8 text-2xl font-bold text-navy-950">Booking</h2>
         <p className="mt-3">
           Submitting the form is a request, not a confirmed appointment. A booking is confirmed once
-          Lewis has come back to you with a date. No payment details are taken online.
+          we have come back to you with a date. No payment details are taken online.
         </p>
 
         <h2 className="mt-8 text-2xl font-bold text-navy-950">Access</h2>

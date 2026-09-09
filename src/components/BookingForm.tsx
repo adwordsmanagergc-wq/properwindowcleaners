@@ -93,7 +93,7 @@ export default function BookingForm() {
   }, [windows, storeys, extras, addons, frequency, result.perClean, startDate, timeSlot]);
 
   const whatsappHref = `${site.whatsappHref}?text=${encodeURIComponent(
-    `Hi Lewis, I'd like to book a window clean.\n\n${summaryText}\n\nName: ${name || '(name)'}\nAddress: ${address} ${postcode}`,
+    `Hi, I'd like to book a window clean.\n\n${summaryText}\n\nName: ${name || '(name)'}\nAddress: ${address} ${postcode}`,
   )}`;
 
   const mailtoHref = `mailto:${site.email}?subject=${encodeURIComponent(
@@ -150,7 +150,7 @@ export default function BookingForm() {
           Booking request sent
         </h2>
         <p className="mt-3 text-[16px] leading-relaxed text-navy-900/75">
-          Thanks {name.split(' ')[0] || 'very much'}. Lewis will text or ring you back to confirm the
+          Thanks {name.split(' ')[0] || 'very much'}. We will text or ring you back to confirm the
           day, usually the same working day. Nothing is charged until the windows are done.
         </p>
         <div className="mt-5 rounded-xl bg-navy-50 p-4 text-left text-[14.5px] text-navy-900/80">
@@ -403,7 +403,7 @@ export default function BookingForm() {
               })}
             </div>
             <p className="mt-2 text-[12.5px] text-navy-900/55">
-              These are quoted separately once Lewis has seen the job. Nothing is added to your window price.
+              These are quoted separately once we have seen the job. Nothing is added to your window price.
             </p>
           </fieldset>
 
@@ -411,7 +411,7 @@ export default function BookingForm() {
             <div className="mt-6 rounded-xl border border-red-200 bg-red-50 p-4 text-[14.5px] text-red-800">
               <p className="font-semibold">{errorMsg}</p>
               <p className="mt-1">
-                No problem — send it straight to Lewis instead:{' '}
+                No problem, send it straight to us instead:{' '}
                 <a className="font-semibold underline" href={whatsappHref}>WhatsApp</a>,{' '}
                 <a className="font-semibold underline" href={mailtoHref}>email</a> or ring{' '}
                 <a className="font-semibold underline" href={site.phoneHref}>{site.phone}</a>.

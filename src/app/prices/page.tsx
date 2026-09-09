@@ -241,7 +241,7 @@ export default function PricesPage() {
 
       <CtaBand
         title="Put your own numbers in"
-        body={`The calculator takes about thirty seconds and gives you the real figure for your house, not a range. Or ring ${site.owner.split(' ')[0]} and he will price it over the phone.`}
+        body={`The calculator takes about thirty seconds and gives you the real figure for your house, not a range. Or ring us and we will price it over the phone.`}
       />
       <div className="pb-16" />
     </>

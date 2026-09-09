@@ -26,7 +26,7 @@ export default function PrivacyPage() {
 
         <h2 className="mt-8 text-2xl font-bold text-navy-950">What we do with it</h2>
         <p className="mt-3">
-          It is emailed to {site.email} so Lewis can contact you and put the job on the round. If you
+          It is emailed to {site.email} so we can contact you and put the job on the round. If you
           become a regular customer we keep your details for as long as you are on the round, plus a
           reasonable period afterwards for our records. We do not sell it, rent it, or pass it to
           anybody for marketing.

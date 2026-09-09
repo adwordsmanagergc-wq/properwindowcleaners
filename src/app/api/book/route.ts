@@ -47,7 +47,7 @@ function esc(v: unknown) {
 export async function POST(request: Request) {
   const ip = request.headers.get('x-forwarded-for')?.split(',')[0]?.trim() || 'unknown';
   if (rateLimited(ip)) {
-    return NextResponse.json({ error: 'Too many attempts. Please ring Lewis on ' + site.phone }, { status: 429 });
+    return NextResponse.json({ error: 'Too many attempts. Please ring us on ' + site.phone }, { status: 429 });
   }
 
   let body: BookingPayload;
@@ -116,7 +116,7 @@ export async function POST(request: Request) {
     // rather than pretending the booking landed somewhere.
     console.warn('[book] RESEND_API_KEY not set. Booking not delivered:\n' + text);
     return NextResponse.json(
-      { error: 'Online booking is not switched on yet. Send it straight to Lewis instead.' },
+      { error: 'Online booking is not switched on yet. Send it straight to us instead.' },
       { status: 503 },
     );
   }

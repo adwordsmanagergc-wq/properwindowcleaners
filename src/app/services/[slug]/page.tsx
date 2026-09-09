@@ -140,7 +140,7 @@ export default function ServicePage({ params }: { params: { slug: string } }) {
 
       <CtaBand
         title={`Want a price for ${service.name.toLowerCase()}?`}
-        body="Tick it on the booking form and Lewis will come back with a firm figure once he has seen what is involved. No obligation either way."
+        body="Tick it on the booking form and we will come back with a firm figure once we have seen what is involved. No obligation either way."
       />
       <div className="pb-16" />
     </>
