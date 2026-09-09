@@ -113,7 +113,7 @@ body {
   inset: 0;
   background:
     radial-gradient(120% 90% at 20% 0%, rgba(255, 255, 255, 0.97), rgba(224, 240, 254, 0.93) 55%, rgba(185, 226, 254, 0.92) 100%);
-  animation: wc-clear 1.12s cubic-bezier(0.45, 0.05, 0.3, 1) both;
+  animation: wc-clear 1.87s cubic-bezier(0.45, 0.05, 0.3, 1) both;
 }
 
 /* The blade. margin-left pulls its trailing edge onto the soap edge. */
@@ -128,8 +128,8 @@ body {
   background: linear-gradient(90deg, rgba(15, 32, 56, 0) 0%, #173154 22%, #1d4e8f 55%, #0f2038 78%, rgba(15, 32, 56, 0) 100%);
   box-shadow: 0 0 22px rgba(12, 155, 234, 0.45);
   animation:
-    wc-blade 1.12s cubic-bezier(0.45, 0.05, 0.3, 1) both,
-    wc-blade-fade 1.12s linear both;
+    wc-blade 1.87s cubic-bezier(0.45, 0.05, 0.3, 1) both,
+    wc-blade-fade 1.87s linear both;
 }
 
 @keyframes wc-clear {
@@ -162,9 +162,9 @@ body {
 
 /* Each band waits its turn, with a touch of overlap so it reads as one sweep. */
 .wc-band--2 .wc-foam,
-.wc-band--2 .wc-squeegee { animation-delay: 0.94s; }
+.wc-band--2 .wc-squeegee { animation-delay: 1.565s; }
 .wc-band--3 .wc-foam,
-.wc-band--3 .wc-squeegee { animation-delay: 1.88s; }
+.wc-band--3 .wc-squeegee { animation-delay: 3.13s; }
 
 /* Each line sits in the soap and is clipped away with it as the blade passes. */
 .wc-word {
@@ -208,7 +208,7 @@ body {
    waits, so there is nothing invisible to click in the corner. */
 
 .wa-dock {
-  animation: wa-dock-in 0.4s ease-out 3.5s both;
+  animation: wa-dock-in 0.4s ease-out 5.5s both;
 }
 .wa-panel {
   transform-origin: bottom right;
@@ -231,13 +231,13 @@ body {
 
 /* Mascot greeter beside the WhatsApp button. */
 .wa-greeter {
-  animation: wa-greeter-in 0.35s ease-out 3.9s both;
+  animation: wa-greeter-in 0.35s ease-out 5.9s both;
 }
 .wa-greeter-mascot {
   height: 62px;
   width: auto;
   filter: drop-shadow(0 6px 14px rgba(23, 49, 84, 0.3));
-  animation: wa-greeter-bob 3.2s ease-in-out 4.2s infinite;
+  animation: wa-greeter-bob 3.2s ease-in-out 6.2s infinite;
 }
 .wa-greeter-bubble {
   position: relative;

@@ -27,8 +27,8 @@ const BUBBLES = [
   { l: 12, t: 44, s: 40, d: 0.6 }, { l: 52, t: 90, s: 50, d: 0.2 },
 ];
 
-/* Last pass ends at 3s; give the fade a moment before tearing it down. */
-const TEARDOWN_MS = 3500;
+/* Last pass ends at 5s; give the fade a moment before tearing it down. */
+const TEARDOWN_MS = 5500;
 
 export default function WindowWipeIntro() {
   const [visible, setVisible] = useState(true);
