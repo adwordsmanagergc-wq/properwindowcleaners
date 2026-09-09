@@ -4,9 +4,9 @@ export const site = {
   tagline: 'Streak-free windows across the North West',
   /** Override per-environment with NEXT_PUBLIC_SITE_URL (used for canonicals, sitemap and schema). */
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.properwindowcleaning.co.uk',
-  phone: '07405 538 996',
-  phoneHref: 'tel:+447405538996',
-  whatsappHref: 'https://wa.me/447405538996',
+  phone: '07406 849 859',
+  phoneHref: 'tel:+447406849859',
+  whatsappHref: 'https://wa.me/447406849859',
   email: 'bookings@properwindowcleaners.co.uk',
   emailHref: 'mailto:bookings@properwindowcleaners.co.uk',
   baseTown: 'Bolton',

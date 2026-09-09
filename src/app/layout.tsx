@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     template: '%s | Proper Window Cleaners',
   },
   description:
-    'Family-run window cleaners covering Bolton and the North West. Instant online price, book weekly, fortnightly or monthly. Frames and sills included. Call 07405 538 996.',
+    'Family-run window cleaners covering Bolton and the North West. Instant online price, book weekly, fortnightly or monthly. Frames and sills included. Call 07406 849 859.',
   applicationName: site.name,
   authors: [{ name: site.name }],
   keywords: [

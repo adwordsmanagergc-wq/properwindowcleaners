@@ -12,7 +12,7 @@ export function localBusinessSchema() {
     alternateName: 'Proper Window Cleaning',
     description: `Family-run window cleaners based in ${site.baseTown}, covering ${site.region}. Water-fed pole cleaning for homes and businesses, on weekly, fortnightly, monthly and one-off rounds.`,
     url: site.url,
-    telephone: '+44 7405 538996',
+    telephone: '+44 7406 849859',
     email: site.email,
     image: `${site.url}/hero.jpg`,
     logo: `${site.url}/logo.png`,
