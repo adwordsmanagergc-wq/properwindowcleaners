@@ -6,7 +6,9 @@ export const site = {
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.properwindowcleaning.co.uk',
   phone: '07406 849 859',
   phoneHref: 'tel:+447406849859',
-  whatsappHref: 'https://wa.me/447406849859',
+  /* WhatsApp is still registered to the old mobile, so it deliberately does
+     not follow the phone number above. */
+  whatsappHref: 'https://wa.me/447405538996',
   email: 'bookings@properwindowcleaners.co.uk',
   emailHref: 'mailto:bookings@properwindowcleaners.co.uk',
   baseTown: 'Bolton',

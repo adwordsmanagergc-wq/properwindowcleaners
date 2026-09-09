@@ -14,6 +14,9 @@ import { useEffect, useState } from 'react';
 
 const BAND_COUNT = 3;
 
+/* Written in the soap, one line per band, wiped away as each pass clears it. */
+const BAND_WORDS = ['North West', 'Window Cleaning', 'Specialists'];
+
 /* Fixed, not random, so server and client markup always agree. */
 const BUBBLES = [
   { l: 6, t: 12, s: 54, d: 0 }, { l: 18, t: 68, s: 30, d: 0.25 },
@@ -24,8 +27,8 @@ const BUBBLES = [
   { l: 12, t: 44, s: 40, d: 0.6 }, { l: 52, t: 90, s: 50, d: 0.2 },
 ];
 
-/* Last pass ends at 2.4s; give the fade a moment before tearing it down. */
-const TEARDOWN_MS = 2900;
+/* Last pass ends at 3s; give the fade a moment before tearing it down. */
+const TEARDOWN_MS = 3500;
 
 export default function WindowWipeIntro() {
   const [visible, setVisible] = useState(true);
@@ -42,6 +45,7 @@ export default function WindowWipeIntro() {
       {Array.from({ length: BAND_COUNT }, (_, i) => (
         <div key={i} className={`wc-band wc-band--${i + 1}`}>
           <div className="wc-foam">
+            <span className="wc-word">{BAND_WORDS[i]}</span>
             {BUBBLES.map((b, j) => (
               <span
                 key={j}
@@ -57,8 +61,6 @@ export default function WindowWipeIntro() {
             ))}
           </div>
           <div className="wc-squeegee" />
-          {/* eslint-disable-next-line @next/next/no-img-element */}
-          <img className="wc-mascot" src="/mascot.webp" alt="" width={262} height={480} />
         </div>
       ))}
     </div>
