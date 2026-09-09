@@ -121,12 +121,12 @@ body {
   position: absolute;
   top: -2%;
   height: 104%;
-  width: 28px;
+  width: 18px;
   left: 0;
-  margin-left: -28px;
+  margin-left: -18px;
   border-radius: 3px;
-  background: linear-gradient(90deg, rgba(15, 32, 56, 0) 0%, #173154 22%, #1d4e8f 55%, #0f2038 78%, rgba(15, 32, 56, 0) 100%);
-  box-shadow: 0 0 22px rgba(12, 155, 234, 0.45);
+  background: linear-gradient(90deg, rgba(15, 32, 56, 0) 0%, rgba(23, 49, 84, 0.75) 30%, rgba(29, 78, 143, 0.8) 55%, rgba(15, 32, 56, 0.7) 80%, rgba(15, 32, 56, 0) 100%);
+  box-shadow: 0 0 20px rgba(12, 155, 234, 0.4);
   animation:
     wc-blade 0.9s cubic-bezier(0.45, 0.05, 0.3, 1) both,
     wc-blade-fade 0.9s linear both;
@@ -144,6 +144,30 @@ body {
   0%, 86% { opacity: 1; }
   100%    { opacity: 0; }
 }
+
+/* The mascot rides the wipe edge, squeegee first, body trailing over the glass
+   he has just cleared. Same left keyframes as the blade, so he stays on it. */
+.wc-mascot {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 78%;
+  width: auto;
+  /* scaleX puts his squeegee on the leading side; translateX drops his right
+     edge onto the soap edge that `left` is animating. */
+  transform: translateX(-100%) scaleX(-1);
+  transform-origin: center;
+  filter: drop-shadow(0 10px 22px rgba(23, 49, 84, 0.35));
+  animation:
+    wc-blade 0.9s cubic-bezier(0.45, 0.05, 0.3, 1) both,
+    wc-blade-fade 0.9s linear both;
+}
+.wc-band--2 .wc-mascot {
+  transform: none;
+  animation-name: wc-blade-rtl, wc-blade-fade;
+}
+.wc-band--2 .wc-mascot { animation-delay: 0.75s; }
+.wc-band--3 .wc-mascot { animation-delay: 1.5s; }
 
 /* Band 2 comes back the other way, so its soap and blade mirror. */
 .wc-band--2 .wc-foam { animation-name: wc-clear-rtl; }
@@ -208,4 +232,57 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .wa-dock,
   .wa-panel { animation: none; }
+}
+
+/* Mascot greeter beside the WhatsApp button. */
+.wa-greeter {
+  animation: wa-greeter-in 0.35s ease-out 3.3s both;
+}
+.wa-greeter-mascot {
+  height: 62px;
+  width: auto;
+  filter: drop-shadow(0 6px 14px rgba(23, 49, 84, 0.3));
+  animation: wa-greeter-bob 3.2s ease-in-out 3.6s infinite;
+}
+.wa-greeter-bubble {
+  position: relative;
+  margin-bottom: 16px;
+  white-space: nowrap;
+  border-radius: 14px;
+  background: #fff;
+  padding: 5px 10px;
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #173154;
+  box-shadow: 0 6px 18px -6px rgba(23, 49, 84, 0.45);
+}
+/* Tail pointing at the mascot. */
+.wa-greeter-bubble::after {
+  content: '';
+  position: absolute;
+  right: -5px;
+  bottom: 7px;
+  width: 10px;
+  height: 10px;
+  transform: rotate(45deg);
+  background: #fff;
+}
+
+@keyframes wa-greeter-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: none; }
+}
+@keyframes wa-greeter-bob {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-5px); }
+}
+
+@media (min-width: 640px) {
+  .wa-greeter-mascot { height: 92px; }
+  .wa-greeter-bubble { margin-bottom: 22px; padding: 6px 11px; font-size: 13px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wa-greeter,
+  .wa-greeter-mascot { animation: none; }
 }

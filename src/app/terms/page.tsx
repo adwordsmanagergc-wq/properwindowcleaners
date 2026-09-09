@@ -41,7 +41,7 @@ export default function TermsPage() {
 
         <h2 className="mt-8 text-2xl font-bold text-navy-950">Weather</h2>
         <p className="mt-3">
-          We work in the rain — purified water leaves no residue for rain to mark. We do not work in
+          We work in the rain, because purified water leaves no residue for rain to mark. We do not work in
           high winds or ice, when a pole is not safe. If weather stops us you are moved to the next
           available day and you are not charged for a missed visit.
         </p>

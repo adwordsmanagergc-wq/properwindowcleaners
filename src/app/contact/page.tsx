@@ -100,8 +100,8 @@ export default function ContactPage() {
               <PinIcon width={19} height={19} className="text-sky-600" /> Where we are
             </h2>
             <p className="mt-3 text-[15.5px] leading-relaxed text-navy-900/72">
-              Based in {site.baseTown}, {site.baseCounty}. There is no shop or office to call in at —
-              the van is the business — but we are on the road across {areas.length} towns in{' '}
+              Based in {site.baseTown}, {site.baseCounty}. There is no shop or office to call in at and
+              the van is the business, but we are on the road across {areas.length} towns in{' '}
               {site.region}.
             </p>
             <Link href="/areas" className="mt-4 inline-block text-[14.5px] font-semibold text-navy-700 underline">

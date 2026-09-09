@@ -44,7 +44,7 @@ const DETAIL: Record<string, Omit<ServiceDetail, 'from' | 'unit' | 'name' | 'slu
     lead:
       'White uPVC does not stay white in this part of the world. Between the damp, the road film and the green algae that grows on anything north-facing, most fascias are a decent few shades off what they were when they were fitted.',
     body: [
-      'The good news is that almost all of it comes off. What looks like permanent staining is generally a layer of algae and traffic film sitting on the surface, and it lifts with the right brush, the right cleaner and enough patience. We work along the whole run — fascia board, soffit underside, the bargeboards on the gable and the exterior of the gutter itself, which is the bit most people forget.',
+      'The good news is that almost all of it comes off. What looks like permanent staining is generally a layer of algae and traffic film sitting on the surface, and it lifts with the right brush, the right cleaner and enough patience. We work along the whole run: fascia board, soffit underside, the bargeboards on the gable and the exterior of the gutter itself, which is the bit most people forget.',
       'No bleach goes near your plants. Household bleach is what a lot of people reach for and it will strip the colour out of shrubs underneath while doing nothing much for the plastic. We use a uPVC-safe cleaner, rinse it off with purified water and leave the beds alone.',
       'It is worth pairing with a gutter clear if you are having one. The pole and the machine are already up there, so doing both in a single visit is quicker than two separate jobs and the price reflects that.',
     ],
@@ -56,7 +56,7 @@ const DETAIL: Record<string, Omit<ServiceDetail, 'from' | 'unit' | 'name' | 'slu
     ],
     faqs: [
       { q: 'Will it definitely come back white?', a: 'Nearly always, but be realistic about very old plastic. uPVC that has been up twenty-odd years can be chalked and slightly yellowed by UV, and no amount of cleaning reverses that. We will tell you honestly what we think it will come up like before you commit.' },
-      { q: 'Do you do cladding and porches too?', a: 'Yes. Vertical cladding, porch roofs, dormer cheeks, garage fascia — anything uPVC we can reach from the ground. Mention it on the booking form and we will price the lot together.' },
+      { q: 'Do you do cladding and porches too?', a: 'Yes. Vertical cladding, porch roofs, dormer cheeks, garage fascia, anything uPVC we can reach from the ground. Mention it on the booking form and we will price the lot together.' },
       { q: 'How long does it stay clean?', a: 'Two to three years for most houses. North-facing runs and anything under trees go green quicker. A regular window round helps, because we can see it happening and give you a nudge before it gets bad again.' },
     ],
   },
@@ -80,7 +80,7 @@ const DETAIL: Record<string, Omit<ServiceDetail, 'from' | 'unit' | 'name' | 'slu
     faqs: [
       { q: 'Do you clean the inside of the roof?', a: 'We can, but it is a separate job and it depends on the height and what is underneath. Furniture needs moving and the floor covering. Ask when you book and we will have a look at what is involved before quoting.' },
       { q: 'My roof is green all over. Will it come off?', a: 'Almost certainly. Green algae on polycarbonate looks alarming and comes off with surprisingly little drama. What does not fully recover is polycarbonate that has gone brittle and crazed with age, and we would rather warn you about that up front than take your money and disappoint you.' },
-      { q: 'How often does a conservatory roof need doing?', a: 'Once a year suits most, and spring is the sensible time — it clears the winter build-up just as you start using the room again. Under overhanging trees you might want it twice.' },
+      { q: 'How often does a conservatory roof need doing?', a: 'Once a year suits most, and spring is the sensible time, because it clears the winter build-up just as you start using the room again. Under overhanging trees you might want it twice.' },
     ],
   },
   'solar-panel-cleaning': {
@@ -90,9 +90,9 @@ const DETAIL: Record<string, Omit<ServiceDetail, 'from' | 'unit' | 'name' | 'slu
     lead:
       'Solar panels are self-cleaning in the same way that a car is self-cleaning: rain shifts the loose stuff and leaves a film of everything else. On a shallow-pitched roof, or anywhere near trees or a main road, that film builds.',
     body: [
-      'We clean panels with deionised water and a soft brush from the ground, and nothing else goes on them. No detergents, no polish, no abrasive pads. That is not fussiness — the anti-reflective coating on the panel surface is exactly what those things damage, and most panel warranties are specific about it.',
+      'We clean panels with deionised water and a soft brush from the ground, and nothing else goes on them. No detergents, no polish, no abrasive pads. That is not fussiness. The anti-reflective coating on the panel surface is exactly what those things damage, and most panel warranties are specific about it.',
       'The edges matter as much as the middle. Dirt and moss collect along the bottom frame of each panel, and because a panel array is wired in series, a shaded strip along one row can drag down more output than its size suggests. We work the frame edges properly rather than just sweeping the glass.',
-      'Be sensible about what to expect. Cleaning panels is worth doing, but anyone promising you a specific percentage gain is guessing — it depends entirely on how dirty they were, the pitch, and the time of year. What we can tell you is that visibly filmed panels are not doing their best work, and getting them clear costs less than most people assume.',
+      'Be sensible about what to expect. Cleaning panels is worth doing, but anyone promising you a specific percentage gain is guessing, because it depends entirely on how dirty they were, the pitch, and the time of year. What we can tell you is that visibly filmed panels are not doing their best work, and getting them clear costs less than most people assume.',
     ],
     bullets: [
       { title: 'Deionised water only', body: 'Nothing that could void a panel warranty or leave a residue that attracts more dirt.' },

@@ -85,7 +85,7 @@ export default function BookingForm() {
       `${windows} windows, ${storeys} storey`,
       extraLines ? `Extras: ${extraLines}` : null,
       addons.length ? `Also quote for: ${addons.join(', ')}` : null,
-      `${FREQUENCY[frequency].label} — ${money(result.perClean)} per clean`,
+      `${FREQUENCY[frequency].label}: ${money(result.perClean)} per clean`,
       `Preferred start: ${startDate} (${timeSlot})`,
     ]
       .filter(Boolean)
@@ -97,7 +97,7 @@ export default function BookingForm() {
   )}`;
 
   const mailtoHref = `mailto:${site.email}?subject=${encodeURIComponent(
-    `Window cleaning booking — ${postcode || town || name || 'new enquiry'}`,
+    `Window cleaning booking: ${postcode || town || name || 'new enquiry'}`,
   )}&body=${encodeURIComponent(
     `${summaryText}\n\nName: ${name}\nPhone: ${phone}\nEmail: ${email}\nAddress: ${address}, ${town} ${postcode}\nAccess: ${access}\nNotes: ${notes}`,
   )}`;
@@ -477,7 +477,7 @@ export default function BookingForm() {
             )}
             {!result.firstCleanWaived && frequency !== 'oneoff' && (
               <p className="text-[12.5px] text-navy-900/55">
-                First clean {money(result.firstClean)} — there is always more to shift the first time.
+                First clean {money(result.firstClean)}, because there is always more to shift the first time.
                 Go weekly, fortnightly or monthly and we waive it.
               </p>
             )}

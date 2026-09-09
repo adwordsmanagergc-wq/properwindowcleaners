@@ -72,17 +72,17 @@ export async function POST(request: Request) {
   const rows: [string, string][] = [
     ['Name', String(body.name)],
     ['Phone', String(body.phone)],
-    ['Email', String(body.email || '—')],
+    ['Email', String(body.email || 'Not given')],
     ['Address', `${body.address}, ${body.town || ''} ${body.postcode}`.replace(/\s+/g, ' ').trim()],
     ['Windows', `${body.windows} (${body.storeys} storey)`],
     ['Extras', extraLines.length ? extraLines.join(', ') : 'None'],
     ['Frequency', freq],
-    ['Quoted price', body.perClean != null ? `${money(body.perClean)} per clean` : '—'],
-    ['First clean', body.firstClean != null ? money(body.firstClean) : '—'],
+    ['Quoted price', body.perClean != null ? `${money(body.perClean)} per clean` : 'Not given'],
+    ['First clean', body.firstClean != null ? money(body.firstClean) : 'Not given'],
     ['Preferred start', `${body.startDate} (${body.timeSlot})`],
-    ['Rear access', String(body.access || '—')],
-    ['Also wants quoting', body.addons?.length ? body.addons.join(', ') : '—'],
-    ['Notes', String(body.notes || '—')],
+    ['Rear access', String(body.access || 'Not given')],
+    ['Also wants quoting', body.addons?.length ? body.addons.join(', ') : 'None'],
+    ['Notes', String(body.notes || 'None')],
   ];
 
   const text = rows.map(([k, v]) => `${k}: ${v}`).join('\n');
@@ -112,7 +112,7 @@ export async function POST(request: Request) {
   const from = process.env.BOOKINGS_FROM || 'Proper Window Cleaners <bookings@properwindowcleaners.co.uk>';
 
   if (!apiKey) {
-    // Nothing configured yet — be honest so the form shows the WhatsApp/email fallback
+    // Nothing configured yet, so be honest so the form shows the WhatsApp/email fallback
     // rather than pretending the booking landed somewhere.
     console.warn('[book] RESEND_API_KEY not set. Booking not delivered:\n' + text);
     return NextResponse.json(
@@ -129,7 +129,7 @@ export async function POST(request: Request) {
         from,
         to: [to],
         reply_to: body.email ? [String(body.email)] : undefined,
-        subject: `Booking — ${body.postcode} — ${freq} — ${body.perClean != null ? money(body.perClean) : ''}`,
+        subject: `Booking: ${body.postcode}, ${freq}, ${body.perClean != null ? money(body.perClean) : ''}`,
         text,
         html,
       }),

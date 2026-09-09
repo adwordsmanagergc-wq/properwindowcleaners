@@ -109,7 +109,24 @@ export default function WhatsAppChat() {
         </div>
       )}
 
-      <button
+      <div className="flex items-end justify-end gap-1">
+        {!open && (
+          /* Decorative nudge towards the button. The button itself carries the
+             label and the focus order, so this stays out of the tab ring. */
+          <button
+            type="button"
+            aria-hidden="true"
+            tabIndex={-1}
+            onClick={() => setOpen(true)}
+            className="wa-greeter flex items-end gap-1"
+          >
+            <span className="wa-greeter-bubble">Let&rsquo;s chat</span>
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img src="/mascot.webp" alt="" width={262} height={480} className="wa-greeter-mascot" />
+          </button>
+        )}
+
+        <button
         ref={buttonRef}
         type="button"
         onClick={() => setOpen((v) => !v)}
@@ -119,7 +136,8 @@ export default function WhatsAppChat() {
         className="flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-[0_10px_28px_-6px_rgba(37,211,102,.7)] transition-transform hover:scale-105 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-[#075E54] active:scale-95"
       >
         {open ? <CloseIcon width={24} height={24} /> : <WhatsAppIcon width={28} height={28} />}
-      </button>
+        </button>
+      </div>
     </div>
   );
 }

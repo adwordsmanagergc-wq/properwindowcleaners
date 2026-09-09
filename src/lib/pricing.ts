@@ -1,12 +1,12 @@
 /**
- * Proper Window Cleaning — pricing engine.
+ * Proper Window Cleaning: pricing engine.
  *
  * Calibrated in Sept 2026 against published North West window cleaning
  * tariffs (Merseyside / Greater Manchester / Lancashire round prices for a
  * regular 4-weekly exterior clean). Our rates are set deliberately BELOW the
  * regional going rate for every property size.
  *
- * Everything below is intentionally in one file — change a number here and
+ * Everything below is intentionally in one file: change a number here and
  * the calculator, the price tables and the area pages all follow.
  */
 
@@ -105,13 +105,13 @@ export const EXTRAS: { id: ExtraId; label: string; price: number; note: string; 
   { id: 'porch', label: 'Porch', price: 2, note: 'Glass porch or storm porch, inside and out.' },
 ];
 
-/** Frames, sills and doors are included in every clean — never an upsell. */
+/** Frames, sills and doors are included in every clean, never an upsell. */
 export const INCLUDED = [
   'All reachable exterior glass',
   'Frames wiped down',
   'Sills and ledges',
   'Front and back door glass',
-  'Purified water — no soap residue',
+  'Purified water, no soap residue',
 ];
 
 /**

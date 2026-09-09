@@ -51,7 +51,7 @@ const HOME_FAQS = [
 ];
 
 const STEPS = [
-  { icon: CalendarIcon, title: 'Price it yourself', body: 'Slide the number of windows, pick single or double storey, choose how often. The price updates as you go — no waiting on a callback.' },
+  { icon: CalendarIcon, title: 'Price it yourself', body: 'Slide the number of windows, pick single or double storey, choose how often. The price updates as you go, with no waiting on a callback.' },
   { icon: PhoneIcon, title: 'We confirm the day', body: 'You get a text or a call back, usually the same working day, with the day we will be on your street and a rough time.' },
   { icon: DropletIcon, title: 'We turn up and clean', body: 'Pole and purified water, ground level, front and back. You get a text when it is done and pay by transfer or cash.' },
 ];
@@ -94,7 +94,7 @@ export default function HomePage() {
               {[
                 'No contract, cancel with a text',
                 'Fully insured, public liability',
-                'Pure water — no soap, no streaks',
+                'Pure water, no soap, no streaks',
                 'We clean rain or shine',
               ].map((item) => (
                 <li key={item} className="flex items-center gap-2.5 text-[15px] font-medium text-navy-900/85">

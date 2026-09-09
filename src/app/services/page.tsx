@@ -67,7 +67,7 @@ export default function ServicesPage() {
               </p>
               <p>
                 Rounds run weekly, fortnightly, monthly, eight-weekly or quarterly, and one-off cleans
-                are fine too — end of tenancy, before a viewing, after the builders have gone.
+                are fine too: end of tenancy, before a viewing, after the builders have gone.
               </p>
             </div>
             <div className="mt-7 flex flex-col gap-3 sm:flex-row">

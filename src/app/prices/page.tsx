@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 const PRICE_FAQS = [
   {
     q: 'Why is the first clean sometimes more?',
-    a: 'Glass that has not been touched for a while takes longer — old soap film in the corners, cobwebs behind the frames, bird mess baked on. That first visit is real extra work, so it carries a surcharge. Sign up weekly, fortnightly or monthly and we waive it entirely.',
+    a: 'Glass that has not been touched for a while takes longer. Old soap film in the corners, cobwebs behind the frames, bird mess baked on. That first visit is real extra work, so it carries a surcharge. Sign up weekly, fortnightly or monthly and we waive it entirely.',
   },
   {
     q: 'Why does a less frequent clean cost more per visit?',
@@ -30,7 +30,7 @@ const PRICE_FAQS = [
   },
   {
     q: 'Are frames and sills really included?',
-    a: 'Yes, on every clean, every time. A lot of firms quote for glass only and then charge extra for frames. We have never understood that — the frames get wet anyway when the glass is rinsed, so leaving them dirty is just doing half a job.',
+    a: 'Yes, on every clean, every time. A lot of firms quote for glass only and then charge extra for frames. We have never understood that, because the frames get wet anyway when the glass is rinsed, so leaving them dirty is just doing half a job.',
   },
   {
     q: 'What is the minimum you will come out for?',
@@ -42,7 +42,7 @@ const PRICE_FAQS = [
   },
   {
     q: 'How do I pay?',
-    a: 'Bank transfer after each clean suits most people — we text when the job is done and the details are on the message. Cash left with a neighbour or through the door is fine too. No standing orders, no card on file.',
+    a: 'Bank transfer after each clean suits most people, and we text when the job is done and the details are on the message. Cash left with a neighbour or through the door is fine too. No standing orders, no card on file.',
   },
 ];
 
@@ -117,7 +117,7 @@ export default function PricesPage() {
           </table>
         </div>
         <p className="mt-4 text-[13.5px] leading-relaxed text-navy-900/55">
-          Prices per clean. Window counts are typical for each property type — your own count sets your
+          Prices per clean. Window counts are typical for each property type, and your own count sets your
           actual price, and you can put it in below. Minimum charge {money(MINIMUM_CHARGE)}.
         </p>
       </section>
@@ -215,7 +215,7 @@ export default function PricesPage() {
           <p className="mt-4 text-[16.5px] leading-relaxed text-navy-900/72">
             These are quoted per job rather than per round, because a bungalow gutter and a
             four-bed detached gutter are not the same afternoon. Book two together and it comes down
-            again — most of the cost is having somebody there in the first place.
+            again, because most of the cost is having somebody there in the first place.
           </p>
         </div>
         <div className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">

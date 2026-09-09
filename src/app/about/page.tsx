@@ -173,7 +173,7 @@ export default function AboutPage() {
             <PinIcon width={22} height={22} className="text-sky-600" />
             <h3 className="mt-3 text-[17px] font-bold text-navy-950">Based in {site.baseTown}</h3>
             <p className="mt-2 text-[15px] leading-relaxed text-navy-900/70">
-              {site.baseCounty}, working across {site.region}. No shop, no office — the van is the business.
+              {site.baseCounty}, working across {site.region}. No shop, no office, just the van.
             </p>
           </div>
           <div className="min-w-0">

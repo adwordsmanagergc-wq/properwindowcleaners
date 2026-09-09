@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react';
  * three passes across it, clearing a band each time to reveal the site.
  *
  * The markup is server-rendered so the soap is there on the very first paint
- * rather than flashing in after hydration, and the whole animation is CSS —
+ * rather than flashing in after hydration, and the whole animation is CSS:
  * if JS never runs, the passes still play and the overlay ends up fully
  * transparent and click-through. React only unmounts the node afterwards.
  */
@@ -57,6 +57,8 @@ export default function WindowWipeIntro() {
             ))}
           </div>
           <div className="wc-squeegee" />
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img className="wc-mascot" src="/mascot.webp" alt="" width={262} height={480} />
         </div>
       ))}
     </div>

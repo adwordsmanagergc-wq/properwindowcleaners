@@ -60,7 +60,7 @@ export default function QuickQuote({ areaName }: { areaName?: string }) {
             className="w-full accent-navy-600"
           />
           <p className="mt-1.5 text-[13px] text-navy-900/55">
-            Count every pane you can see from outside. Not sure? Guess high — we confirm on the first visit.
+            Count every pane you can see from outside. Not sure? Guess high and we confirm on the first visit.
           </p>
         </div>
 

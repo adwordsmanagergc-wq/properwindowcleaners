@@ -207,7 +207,7 @@ export default function AreaPage({ params }: { params: { area: string } }) {
             </p>
 
             <div className="mt-14">
-              <Faq items={area.faqs} title={`Window cleaning in ${area.name} — your questions`} />
+              <Faq items={area.faqs} title={`Window cleaning in ${area.name}: your questions`} />
             </div>
           </div>
 
@@ -282,7 +282,7 @@ export default function AreaPage({ params }: { params: { area: string } }) {
 
       <CtaBand
         title={`Get a price for your ${area.name} home`}
-        body={`Windows, storeys, how often — thirty seconds and you have got the figure. We then text back to confirm which ${area.roundDay.toLowerCase().includes('day') ? 'day' : 'week'} suits.`}
+        body={`Windows, storeys, how often. Thirty seconds and you have got the figure. We then text back to confirm which ${area.roundDay.toLowerCase().includes('day') ? 'day' : 'week'} suits.`}
         href={`/book?area=${encodeURIComponent(area.name)}`}
       />
       <div className="pb-16" />

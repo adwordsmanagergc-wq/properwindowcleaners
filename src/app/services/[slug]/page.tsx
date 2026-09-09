@@ -102,7 +102,7 @@ export default function ServicePage({ params }: { params: { slug: string } }) {
             </div>
 
             <div className="mt-12 max-w-2xl">
-              <Faq items={service.faqs} title={`${service.name} — common questions`} />
+              <Faq items={service.faqs} title={`${service.name}: common questions`} />
             </div>
           </div>
 
